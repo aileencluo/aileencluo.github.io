@@ -12,7 +12,7 @@ title: Research
 <p>Focused studies on Kantian philosophy, including epistemology, metaphysics, and moral theory. This line of research investigates how Kant’s ideas can illuminate contemporary debates in philosophy of mind and ethics.</p>
 
 <figure class="figure-torn">
-  <img src="npr.brightspotcdn.webp" alt="Kant research visual">
+  <img src="assets/npr.brightspotcdn.webp" alt="Kant research visual">
   <figcaption><!-- 可选：Kant & cognition (placeholder) --></figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ title: Research
 <p>Exploring the development of psychological theories and their philosophical foundations. This research bridges historical perspectives with modern cognitive theories, highlighting conceptual continuity and transformation.</p>
 
 <figure class="figure-torn">
-  <img src="jean-piaget.png" alt="History & Philosophy of Psychology visual">
+  <img src="assets/jean-piaget.png" alt="History & Philosophy of Psychology visual">
   <figcaption><!-- Optional caption --></figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ title: Research
 <p>Investigating questions raised by contemporary cognitive science, including representation, consciousness, and computational models of the mind. The aim is to integrate rigorous conceptual analysis with empirical insights.</p>
 
 <figure class="figure-torn">
-  <img src="cognitive.png" alt="Cognitive Science visual">
+  <img src="assets/cognitive.png" alt="Cognitive Science visual">
   <figcaption><!-- Optional caption --></figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ title: Research
 <p>Analyzing philosophical foundations of law, justice, and legal reasoning. The work examines how normative theories inform legal practice and institutional design.</p>
 
 <figure class="figure-torn">
-  <img src="law.png" alt="Legal Philosophy visual">
+  <img src="assets/law.png" alt="Legal Philosophy visual">
   <figcaption><!-- Optional caption --></figcaption>
 </figure>
 
