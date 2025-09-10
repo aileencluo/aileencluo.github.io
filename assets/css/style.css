@@ -111,6 +111,9 @@ a:hover{
 
   z-index: 1000;
   text-align: left;
+   /* 去掉滚动条相关限制 */
+  max-height: none; 
+  overflow: visible;
 }
 .dropdown-content a {
   color: var(--ink);
