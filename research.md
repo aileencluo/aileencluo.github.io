@@ -32,7 +32,7 @@ title: Research
 <p>Exploring the development of psychological theories and their philosophical foundations. This research bridges historical perspectives with modern cognitive theories, highlighting conceptual continuity and transformation.</p>
 
 <figure class="figure-torn">
-  <img src="assets/placeholder.webp" alt="History & Philosophy of Psychology visual">
+  <img src="jean-piaget.png" alt="History & Philosophy of Psychology visual">
   <figcaption><!-- Optional caption --></figcaption>
 </figure>
 
