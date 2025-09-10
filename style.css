@@ -96,8 +96,8 @@ nav a{
    ========================= */
 .figure-torn{
   position:relative;
-  width:min(720px, 90%);   /* 大屏最大 720px，小屏占 90% */
-  aspect-ratio:16 / 9;     /* 关键：固定 16:9 横幅比例 */
+  width: min(360px, 70%);   /* 更小：大屏最大 360px，小屏占 70% */
+  aspect-ratio: 1 / 1;      /* 改成正方形 */
   margin:20px auto 28px;
   filter:drop-shadow(0 6px 14px rgba(0,0,0,.12));
   overflow:hidden;          /* 防止内容溢出容器 */
