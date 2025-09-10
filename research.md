@@ -13,7 +13,7 @@ title: Research
 
 <figure class="figure-torn">
   <!-- 换成你的图片路径，如 assets/kant-01.webp -->
-  <img src="assets/placeholder.webp" alt="Kant research visual">
+  <img src="npr.brightspotcdn.webp" alt="Kant research visual">
   <figcaption><!-- 可选：Kant & cognition (placeholder) --></figcaption>
 </figure>
 
