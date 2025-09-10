@@ -50,67 +50,81 @@ a:hover{
 }
 
 /* =========================
-   Navigation
+   Modern Sticky Navbar
    ========================= */
-nav{
-  text-align:center;
-  margin-bottom:40px;
-}
-nav a{
-  margin:0 15px;
-  font-weight:600;
-  transition:color .3s ease;
+.navbar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 12px 20px;
+
+  background: rgba(255, 255, 255, 0.85); /* 半透明背景 */
+  backdrop-filter: blur(8px);            /* 毛玻璃模糊效果 */
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+
+  z-index: 1000;
 }
 
-/* Dropdown container */
+.navbar a,
+.navbar .dropbtn {
+  font-weight: 600;
+  color: var(--brand);
+  text-decoration: none;
+  padding: 6px 10px;
+  transition: color 0.3s, background 0.3s;
+}
+
+.navbar a:hover,
+.navbar .dropbtn:hover {
+  color: var(--accent);
+  background: rgba(0,0,0,0.03);
+  border-radius: 4px;
+}
+
+/* =========================
+   Dropdown (Glass Style)
+   ========================= */
 .dropdown {
   position: relative;
   display: inline-block;
 }
 
-/* Dropdown button */
-.dropbtn {
-  font-weight: 600;
-  color: var(--brand);
-  text-decoration: none;
-  margin: 0 15px;
-  cursor: pointer;
-}
-
-/* Dropdown content (hidden by default) */
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #fff;
   min-width: 240px;
-  box-shadow: 0px 8px 16px rgba(0,0,0,0.15);
+  padding: 10px 0;
+
+  background: rgba(255, 255, 255, 0.85); /* 半透明白 */
+  backdrop-filter: blur(10px);            /* 毛玻璃 */
+  border: 1px solid rgba(0,0,0,0.05);
+  border-radius: 6px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+
   z-index: 1000;
   text-align: left;
-  padding: 10px 0;
 }
 
-/* Dropdown links */
 .dropdown-content a {
   color: var(--ink);
   padding: 10px 16px;
   text-decoration: none;
   display: block;
-  transition: background 0.3s;
+  transition: background 0.3s, color 0.3s;
+  border-radius: 4px;
 }
 
 .dropdown-content a:hover {
-  background-color: #f2f2f2;
+  background: rgba(0,0,0,0.05);
   color: var(--accent);
 }
 
-/* Hover 显示 dropdown */
+/* Hover 显示下拉 */
 .dropdown:hover .dropdown-content {
   display: block;
-}
-
-/* Hover 时主按钮变色 */
-.dropdown:hover .dropbtn {
-  color: var(--accent);
 }
 
 /* =========================
