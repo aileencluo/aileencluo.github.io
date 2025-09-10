@@ -17,7 +17,7 @@ html,body{
 }
 
 body{
-  font-family:'Inter', sans-serif; /* 默认正文用 Inter */
+  font-family:'Cormorant Garamond', serif; 
   line-height:1.8;
   max-width:var(--maxw);
   margin:80px auto;
@@ -77,7 +77,7 @@ a:hover{
 .navbar a,
 .navbar .dropbtn {
   font-weight: 600;
-  font-family:'Inter', sans-serif;
+  font-family:'Cormorant Garamond', sans-serif;
   color: var(--brand);
   text-decoration: none;
   padding: 6px 10px;
