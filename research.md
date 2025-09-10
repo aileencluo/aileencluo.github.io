@@ -67,7 +67,7 @@ title: Research
 <p>Analyzing philosophical foundations of law, justice, and legal reasoning. The work examines how normative theories inform legal practice and institutional design.</p>
 
 <figure class="figure-torn">
-  <img src="assets/placeholder.webp" alt="Legal Philosophy visual">
+  <img src="law.png" alt="Legal Philosophy visual">
   <figcaption><!-- Optional caption --></figcaption>
 </figure>
 
