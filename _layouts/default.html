@@ -1,18 +1,45 @@
-<nav class="navbar">
-  <a href="{{ '/' | relative_url }}">Home</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- Research 下拉菜单 -->
-  <div class="dropdown">
-    <a href="{{ '/research' | relative_url }}" class="dropbtn">Research ▾</a>
-    <div class="dropdown-content">
-      <a href="{{ '/research#kant' | relative_url }}">Kant</a>
-      <a href="{{ '/research#history-psych' | relative_url }}">History & Philosophy of Psychology</a>
-      <a href="{{ '/research#cogsci' | relative_url }}">Philosophy of Cognitive Science</a>
-      <a href="{{ '/research#legal' | relative_url }}">Legal Philosophy</a>
+  <!-- 样式表链接（推荐路径：assets/css/style.css） -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+  <!-- =========================
+       Navigation (Sticky + Glass Style)
+       ========================= -->
+  <nav class="navbar">
+    <!-- 首页 -->
+    <a href="{{ '/' | relative_url }}">Home</a>
+
+    <!-- Research 下拉菜单 -->
+    <div class="dropdown">
+      <a href="{{ '/research' | relative_url }}" class="dropbtn">Research ▾</a>
+      <div class="dropdown-content">
+        <a href="{{ '/research#kant' | relative_url }}">Kant</a>
+        <a href="{{ '/research#history-psych' | relative_url }}">History & Philosophy of Psychology</a>
+        <a href="{{ '/research#cogsci' | relative_url }}">Philosophy of Cognitive Science</a>
+        <a href="{{ '/research#legal' | relative_url }}">Legal Philosophy</a>
+      </div>
     </div>
-  </div>
 
-  <a href="{{ '/teaching' | relative_url }}">Teaching</a>
-  <a href="{{ '/cv' | relative_url }}">CV</a>
-  <a href="{{ '/trivia' | relative_url }}">Trivia</a>
-</nav>
+    <!-- 其他页面 -->
+    <a href="{{ '/teaching' | relative_url }}">Teaching</a>
+    <a href="{{ '/cv' | relative_url }}">CV</a>
+    <a href="{{ '/trivia' | relative_url }}">Trivia</a>
+  </nav>
+
+  <!-- =========================
+       Page Content
+       ========================= -->
+  <main>
+    {{ content }}
+  </main>
+
+</body>
+</html>
