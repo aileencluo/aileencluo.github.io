@@ -113,7 +113,10 @@ a:hover{
   text-align: left;
    /* 去掉滚动条相关限制 */
   max-height: none; 
-  overflow: visible;
+  overflow: hidden;
+}
+.dropdown-content::-webkit-scrollbar {
+  display: none;
 }
 .dropdown-content a {
   color: var(--ink);
