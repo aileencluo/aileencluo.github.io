@@ -7,30 +7,72 @@ title: Research
 
 <div class="divider"></div>
 
-<h2 style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">
-Kant
-</h2>
-<p>
-Focused studies on Kantian philosophy, including epistemology, metaphysics, and moral theory. This line of research investigates how Kant’s ideas can illuminate contemporary debates in philosophy of mind and ethics.
-</p>
+<!-- ===== Kant ===== -->
+<h2 style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Kant</h2>
+<p>Focused studies on Kantian philosophy, including epistemology, metaphysics, and moral theory. This line of research investigates how Kant’s ideas can illuminate contemporary debates in philosophy of mind and ethics.</p>
 
-<h2 style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">
-History and Philosophy of Psychology
-</h2>
-<p>
-Exploring the development of psychological theories and their philosophical foundations. This research bridges historical perspectives with modern cognitive theories, highlighting conceptual continuity and transformation.
-</p>
+<figure class="figure-torn">
+  <!-- 换成你的图片路径，如 assets/kant-01.webp -->
+  <img src="assets/placeholder.webp" alt="Kant research visual">
+  <figcaption><!-- 可选：Kant & cognition (placeholder) --></figcaption>
+</figure>
 
-<h2 style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">
-Philosophy of Cognitive Science
-</h2>
-<p>
-Investigating philosophical questions raised by contemporary cognitive science, including representation, consciousness, and computational models of the mind. Aims to integrate rigorous conceptual analysis with empirical research insights.
-</p>
+<div class="subhead">Paper 1 — Synthetic A Priori & Representation</div>
+<p class="subdesc">Examines the role of synthetic a priori judgments in contemporary theories of representation, clarifying their relevance to current models of perception and concept acquisition.</p>
 
-<h2 style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">
-Legal Philosophy
-</h2>
-<p>
-Analyzing philosophical foundations of law, justice, and legal reasoning. Examines classical and modern perspectives, exploring how normative theories inform legal practice and societal frameworks.
-</p>
+<div class="subhead">Paper 2 — Autonomy, Law, and Agency</div>
+<p class="subdesc">Revisits Kant’s account of autonomy to articulate a unified picture of agency that bridges moral psychology and legal responsibility.</p>
+
+<div class="subhead">Paper 3 — (Optional)</div>
+<p class="subdesc">Add a brief 2–3 sentence summary here.</p>
+
+
+<!-- ===== History and Philosophy of Psychology ===== -->
+<h2 style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">History and Philosophy of Psychology</h2>
+<p>Exploring the development of psychological theories and their philosophical foundations. This research bridges historical perspectives with modern cognitive theories, highlighting conceptual continuity and transformation.</p>
+
+<figure class="figure-torn">
+  <img src="assets/placeholder.webp" alt="History & Philosophy of Psychology visual">
+  <figcaption><!-- Optional caption --></figcaption>
+</figure>
+
+<div class="subhead">Paper 1 — From Faculty Psychology to Mechanisms</div>
+<p class="subdesc">Traces shifts from faculty psychology to mechanistic explanations, showing how older taxonomies still scaffold present-day research programs.</p>
+
+<div class="subhead">Paper 2 — Introspection, Measurement, and Method</div>
+<p class="subdesc">Assesses the philosophical status of introspection and the emergence of measurement norms, relating them to current methodological debates.</p>
+
+
+<!-- ===== Philosophy of Cognitive Science ===== -->
+<h2 style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Philosophy of Cognitive Science</h2>
+<p>Investigating questions raised by contemporary cognitive science, including representation, consciousness, and computational models of the mind. The aim is to integrate rigorous conceptual analysis with empirical insights.</p>
+
+<figure class="figure-torn">
+  <img src="assets/placeholder.webp" alt="Cognitive Science visual">
+  <figcaption><!-- Optional caption --></figcaption>
+</figure>
+
+<div class="subhead">Paper 1 — Levels of Computation & Explanation</div>
+<p class="subdesc">Clarifies levels-based explanation in cognitive models, situating computational, algorithmic, and implementational claims within a single normative frame.</p>
+
+<div class="subhead">Paper 2 — Perception, Prediction, and Concept Use</div>
+<p class="subdesc">Connects predictive processing accounts with concept acquisition and perceptual learning, arguing for a principled link between inference and representation.</p>
+
+<div class="subhead">Paper 3 — (Optional)</div>
+<p class="subdesc">Add a brief 2–3 sentence summary here.</p>
+
+
+<!-- ===== Legal Philosophy ===== -->
+<h2 style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Legal Philosophy</h2>
+<p>Analyzing philosophical foundations of law, justice, and legal reasoning. The work examines how normative theories inform legal practice and institutional design.</p>
+
+<figure class="figure-torn">
+  <img src="assets/placeholder.webp" alt="Legal Philosophy visual">
+  <figcaption><!-- Optional caption --></figcaption>
+</figure>
+
+<div class="subhead">Paper 1 — Normativity and Legal Reasons</div>
+<p class="subdesc">Develops a unified account of practical reasons that links legal obligation with moral normativity without collapsing the two.</p>
+
+<div class="subhead">Paper 2 — Responsibility, Agency, and Evidence</div>
+<p class="subdesc">Explores agency-sensitive models of responsibility and how evidential standards can reflect underlying normative commitments.</p>
