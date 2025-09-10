@@ -21,4 +21,3 @@ title: CV
   </a>
 </div>
 
-<p>The CV includes my education, publications, research projects, and teaching experience.</p>
