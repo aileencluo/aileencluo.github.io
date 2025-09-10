@@ -48,7 +48,7 @@ title: Research
 <p>Investigating questions raised by contemporary cognitive science, including representation, consciousness, and computational models of the mind. The aim is to integrate rigorous conceptual analysis with empirical insights.</p>
 
 <figure class="figure-torn">
-  <img src="assets/placeholder.webp" alt="Cognitive Science visual">
+  <img src="AI.avif" alt="Cognitive Science visual">
   <figcaption><!-- Optional caption --></figcaption>
 </figure>
 
