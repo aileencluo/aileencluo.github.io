@@ -17,7 +17,7 @@ html,body{
 }
 
 body{
-  font-family:'Cormorant Garamond', serif;
+  font-family:'Inter', sans-serif; /* 默认正文用 Inter */
   line-height:1.8;
   max-width:var(--maxw);
   margin:80px auto;
@@ -26,6 +26,7 @@ body{
 
 /* 通用排版 */
 h1,h2,h3{
+  font-family:'Cormorant Garamond', serif; /* 标题用 Cormorant Garamond */
   font-weight:700;
   line-height:1.3;
   margin:0.6em 0 0.4em;
@@ -56,7 +57,8 @@ a:hover{
   position: sticky;
   top: 0;
   display: flex;
-  justify-content: center;
+  justify-content: center; /* 水平居中排列 */
+  align-items: center;     /* 垂直居中 */
   gap: 20px;
   padding: 12px 20px;
 
@@ -66,17 +68,21 @@ a:hover{
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 
   z-index: 1000;
+  overflow-x: auto;  /* 手机上可横向滚动 */
+  white-space: nowrap;
 }
+.navbar::-webkit-scrollbar { display: none; } /* 隐藏滚动条 */
 
+/* 导航链接 */
 .navbar a,
 .navbar .dropbtn {
   font-weight: 600;
+  font-family:'Inter', sans-serif;
   color: var(--brand);
   text-decoration: none;
   padding: 6px 10px;
   transition: color 0.3s, background 0.3s;
 }
-
 .navbar a:hover,
 .navbar .dropbtn:hover {
   color: var(--accent);
@@ -91,14 +97,13 @@ a:hover{
   position: relative;
   display: inline-block;
 }
-
 .dropdown-content {
   display: none;
   position: absolute;
   min-width: 240px;
   padding: 10px 0;
 
-  background: rgba(255, 255, 255, 0.85); /* 半透明白 */
+  background: rgba(255, 255, 255, 0.9); /* 半透明白 */
   backdrop-filter: blur(10px);            /* 毛玻璃 */
   border: 1px solid rgba(0,0,0,0.05);
   border-radius: 6px;
@@ -107,7 +112,6 @@ a:hover{
   z-index: 1000;
   text-align: left;
 }
-
 .dropdown-content a {
   color: var(--ink);
   padding: 10px 16px;
@@ -116,12 +120,10 @@ a:hover{
   transition: background 0.3s, color 0.3s;
   border-radius: 4px;
 }
-
 .dropdown-content a:hover {
   background: rgba(0,0,0,0.05);
   color: var(--accent);
 }
-
 /* Hover 显示下拉 */
 .dropdown:hover .dropdown-content {
   display: block;
@@ -138,7 +140,7 @@ a:hover{
 }
 
 /* =========================
-   Section Title (可替代内联样式)
+   Section Title
    ========================= */
 .section-title{
   font-size:1.6em;
@@ -163,26 +165,23 @@ a:hover{
 
 /* =========================
    Research Page – Torn-Edge Figure (Square)
-   统一正方形比例、统一尺寸、响应式
    ========================= */
 .figure-torn{
   position:relative;
-  width: min(360px, 70%);   /* 更小：大屏最大 360px，小屏占 70% */
-  aspect-ratio: 1 / 1;      /* 正方形 */
+  width: min(360px, 70%);
+  aspect-ratio: 1 / 1;      
   margin:20px auto 28px;
   filter:drop-shadow(0 6px 14px rgba(0,0,0,.12));
-  overflow:hidden;          /* 防止内容溢出容器 */
+  overflow:hidden;
 }
-
-/* 图像填充容器并裁剪；撕碎边缘 clip-path 可按需微调 */
 .figure-torn img{
   position:absolute;
   inset:0;
   width:100%;
   height:100%;
-  object-fit:cover;         /* 保持比例、填满、裁剪溢出 */
+  object-fit:cover;
   display:block;
-  transform: scale(1.02); /* 轻微放大，避免出现细白缝 */
+  transform: scale(1.02);
 
   clip-path: polygon(
     4% 6%, 10% 3%, 18% 5%, 28% 2%, 40% 4%, 52% 1%,
@@ -193,11 +192,8 @@ a:hover{
     30% 96%, 20% 98%, 12% 95%, 7% 92%, 
     5% 84%, 3% 73%, 6% 61%, 4% 49%, 2% 38%, 5% 27%, 3% 16%
   );
-  
   filter:contrast(1.02) saturate(0.92);
 }
-
-/* 可选图注 */
 .figure-torn figcaption{
   font-style:italic;
   text-align:center;
@@ -207,11 +203,16 @@ a:hover{
 }
 
 /* =========================
+   Anchor Scroll Offset
+   ========================= */
+h2[id] {
+  scroll-margin-top: 100px; /* 避免被 sticky navbar 遮挡 */
+}
+
+/* =========================
    Utilities
    ========================= */
-.center{
-  text-align:center;
-}
+.center{ text-align:center; }
 .m0{ margin:0 !important; }
 .mt0{ margin-top:0 !important; }
 .mt20{ margin-top:20px !important; }
@@ -225,5 +226,5 @@ a:hover{
 @media (max-width: 768px){
   body{ margin:60px auto; }
   h1{ font-size:2.1em; }
-  .figure-torn{ width:95%; } /* 手机更贴边一些 */
+  .figure-torn{ width:95%; }
 }
