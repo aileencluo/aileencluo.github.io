@@ -44,3 +44,47 @@ p {
   background: #1B3A57;
   margin: 40px auto;
 }
+
+
+/* --- Research page: subsections & torn image --- */
+.subhead {
+  font-size: 1.2em;
+  font-weight: 700;
+  margin: 0.6em 0 0.2em;
+}
+
+.subdesc {
+  margin: 0 0 1.2em;
+}
+
+/* 图片容器（撕碎/裁剪边框效果） */
+.figure-torn {
+  position: relative;
+  max-width: 720px;   /* 适中尺寸，与你站点宽度协调 */
+  margin: 16px auto 28px;
+  filter: drop-shadow(0 6px 14px rgba(0,0,0,.12));
+}
+.figure-torn img {
+  width: 100%;
+  height: auto;
+  display: block;
+  /* 不规则剪裁，制造“撕碎”边缘感；可按需微调顶点 */
+  clip-path: polygon(
+    3% 5%, 8% 2%, 15% 4%, 24% 1%, 33% 3%, 44% 0%,
+    57% 2%, 68% 1%, 79% 4%, 90% 2%, 97% 6%, 99% 14%,
+    98% 26%, 100% 38%, 97% 49%, 99% 60%, 96% 71%,
+    99% 82%, 97% 91%, 90% 96%, 82% 98%, 73% 95%,
+    62% 99%, 51% 96%, 41% 99%, 31% 96%, 21% 98%,
+    12% 95%, 7% 92%, 4% 84%, 2% 73%, 3% 61%,
+    1% 51%, 2% 40%, 1% 28%, 2% 17%
+  );
+  /* 轻微的纸感去饱和，低调前卫 */
+  filter: contrast(1.02) saturate(0.92);
+}
+.figure-torn figcaption {
+  font-style: italic;
+  text-align: center;
+  font-size: .95em;
+  color: #444;
+  margin-top: 6px;
+}
