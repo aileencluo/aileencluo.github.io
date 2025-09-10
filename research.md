@@ -8,11 +8,10 @@ title: Research
 <div class="divider"></div>
 
 <!-- ===== Kant ===== -->
-<h2 style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Kant</h2>
+<h2 id="kant" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Kant</h2>
 <p>Focused studies on Kantian philosophy, including epistemology, metaphysics, and moral theory. This line of research investigates how Kant’s ideas can illuminate contemporary debates in philosophy of mind and ethics.</p>
 
 <figure class="figure-torn">
-  <!-- 换成你的图片路径，如 assets/kant-01.webp -->
   <img src="npr.brightspotcdn.webp" alt="Kant research visual">
   <figcaption><!-- 可选：Kant & cognition (placeholder) --></figcaption>
 </figure>
@@ -28,7 +27,7 @@ title: Research
 
 
 <!-- ===== History and Philosophy of Psychology ===== -->
-<h2 style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">History and Philosophy of Psychology</h2>
+<h2 id="history-psych" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">History and Philosophy of Psychology</h2>
 <p>Exploring the development of psychological theories and their philosophical foundations. This research bridges historical perspectives with modern cognitive theories, highlighting conceptual continuity and transformation.</p>
 
 <figure class="figure-torn">
@@ -44,7 +43,7 @@ title: Research
 
 
 <!-- ===== Philosophy of Cognitive Science ===== -->
-<h2 style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Philosophy of Cognitive Science</h2>
+<h2 id="cogsci" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Philosophy of Cognitive Science</h2>
 <p>Investigating questions raised by contemporary cognitive science, including representation, consciousness, and computational models of the mind. The aim is to integrate rigorous conceptual analysis with empirical insights.</p>
 
 <figure class="figure-torn">
@@ -63,7 +62,7 @@ title: Research
 
 
 <!-- ===== Legal Philosophy ===== -->
-<h2 style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Legal Philosophy</h2>
+<h2 id="legal" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Legal Philosophy</h2>
 <p>Analyzing philosophical foundations of law, justice, and legal reasoning. The work examines how normative theories inform legal practice and institutional design.</p>
 
 <figure class="figure-torn">
