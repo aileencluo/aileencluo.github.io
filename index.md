@@ -12,6 +12,7 @@ title: Home
   <!-- 左边：图片 -->
   <div class="about-left">
     <img src="assets/profile.jpg" alt="Profile photo" class="about-img">
+    <p class="img-credit">Image credit: Example Source</p>
   </div>
 
   <!-- 右边：文字 -->
