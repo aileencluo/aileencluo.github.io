@@ -13,8 +13,8 @@ title: Research
 
 <figure class="figure-torn">
   <img src="assets/npr.brightspotcdn.webp" alt="Kant research visual">
-  <figcaption class="img-credit">Image credit: Example Source</figcaption>
 </figure>
+<p class="img-credit">Image credit: Example Source</p>
 
 <div class="subhead">Paper 1 — Synthetic A Priori & Representation</div>
 <p class="subdesc">Examines the role of synthetic a priori judgments in contemporary theories of representation, clarifying their relevance to current models of perception and concept acquisition.</p>
@@ -32,8 +32,8 @@ title: Research
 
 <figure class="figure-torn">
   <img src="assets/jean-piaget.png" alt="History & Philosophy of Psychology visual">
-  <figcaption class="img-credit">Image credit: Example Source</figcaption>
 </figure>
+<p class="img-credit">Image credit: Example Source</p>
 
 <div class="subhead">Paper 1 — From Faculty Psychology to Mechanisms</div>
 <p class="subdesc">Traces shifts from faculty psychology to mechanistic explanations, showing how older taxonomies still scaffold present-day research programs.</p>
@@ -48,8 +48,8 @@ title: Research
 
 <figure class="figure-torn">
   <img src="assets/cognitive.png" alt="Cognitive Science visual">
-  <figcaption class="img-credit">Image credit: Example Source</figcaption>
 </figure>
+<p class="img-credit">Image credit: Example Source</p>
 
 <div class="subhead">Paper 1 — Levels of Computation & Explanation</div>
 <p class="subdesc">Clarifies levels-based explanation in cognitive models, situating computational, algorithmic, and implementational claims within a single normative frame.</p>
@@ -67,8 +67,8 @@ title: Research
 
 <figure class="figure-torn">
   <img src="assets/law.png" alt="Legal Philosophy visual">
-  <figcaption class="img-credit">Image credit: Example Source</figcaption>
 </figure>
+<p class="img-credit">Image credit: Example Source</p>
 
 <div class="subhead">Paper 1 — Normativity and Legal Reasons</div>
 <p class="subdesc">Develops a unified account of practical reasons that links legal obligation with moral normativity without collapsing the two.</p>
