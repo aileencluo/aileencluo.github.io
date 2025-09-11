@@ -49,7 +49,7 @@ title: Research
 <figure class="figure-torn">
   <img src="assets/cognitive.png" alt="Cognitive Science visual">
 </figure>
-<p class="img-credit">Image credit: AI generated image</p>
+<p class="img-credit">Image credit: AI generated</p>
 
 <div class="subhead">Paper 1 — Levels of Computation & Explanation</div>
 <p class="subdesc">Clarifies levels-based explanation in cognitive models, situating computational, algorithmic, and implementational claims within a single normative frame.</p>
@@ -68,7 +68,7 @@ title: Research
 <figure class="figure-torn">
   <img src="assets/law.png" alt="Legal Philosophy visual">
 </figure>
-<p class="img-credit">Image credit: AI generated image</p>
+<p class="img-credit">Image credit: AI generated</p>
 
 <div class="subhead">Paper 1 — Normativity and Legal Reasons</div>
 <p class="subdesc">Develops a unified account of practical reasons that links legal obligation with moral normativity without collapsing the two.</p>
