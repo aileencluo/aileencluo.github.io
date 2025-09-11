@@ -90,16 +90,19 @@ a:hover{
   border-radius: 4px;
 }
 
+
 /* =========================
    Dropdown (Glass Style)
    ========================= */
 .dropdown {
   position: relative;
-  overflow: visible !important; /* 保证子菜单不被裁切 */
 }
+
 .dropdown-content {
   display: none;                /* 默认隐藏 */
-  position: absolute;
+  position: absolute;           /* 脱离 navbar 的滚动环境 */
+  top: 100%;                    /* 出现在 Research 下方 */
+  left: 0;
   min-width: 240px;
   padding: 10px 0;
 
@@ -109,21 +112,23 @@ a:hover{
   border-radius: 6px;
   box-shadow: 0 6px 16px rgba(0,0,0,0.12);
 
-  z-index: 1000;
+  z-index: 2000;                /* 高于 navbar */
   text-align: left;
 
-  /* 强制竖排，去掉滚动条 */
-  display: flex;
-  flex-direction: column;
+  /* 保证子分类竖排 */
+  white-space: normal;
+  display: block;
+
+  /* 去掉滚动条 */
   max-height: none !important;
   overflow: visible !important;
-  white-space: normal;
 }
+
 .dropdown-content a {
+  display: block;               /* 每个子分类独占一行 */
   color: var(--ink);
   padding: 10px 16px;
   text-decoration: none;
-  display: block;
   transition: background 0.3s, color 0.3s;
   border-radius: 4px;
 }
@@ -131,10 +136,12 @@ a:hover{
   background: rgba(0,0,0,0.05);
   color: var(--accent);
 }
+
 /* 悬停时展开 */
 .dropdown:hover .dropdown-content {
-  display: flex;
+  display: block;
 }
+
 
 /* =========================
    Divider
