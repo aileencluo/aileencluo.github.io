@@ -13,7 +13,7 @@ title: Research
 
 <figure class="figure-torn">
   <img src="assets/npr.brightspotcdn.webp" alt="Kant research visual">
-  <figcaption><!-- 可选：Kant & cognition (placeholder) --></figcaption>
+  <figcaption class="img-credit">Image credit: Example Source</figcaption>
 </figure>
 
 <div class="subhead">Paper 1 — Synthetic A Priori & Representation</div>
@@ -32,7 +32,7 @@ title: Research
 
 <figure class="figure-torn">
   <img src="assets/jean-piaget.png" alt="History & Philosophy of Psychology visual">
-  <figcaption><!-- Optional caption --></figcaption>
+  <figcaption class="img-credit">Image credit: Example Source</figcaption>
 </figure>
 
 <div class="subhead">Paper 1 — From Faculty Psychology to Mechanisms</div>
@@ -48,7 +48,7 @@ title: Research
 
 <figure class="figure-torn">
   <img src="assets/cognitive.png" alt="Cognitive Science visual">
-  <figcaption><!-- Optional caption --></figcaption>
+  <figcaption class="img-credit">Image credit: Example Source</figcaption>
 </figure>
 
 <div class="subhead">Paper 1 — Levels of Computation & Explanation</div>
@@ -67,7 +67,7 @@ title: Research
 
 <figure class="figure-torn">
   <img src="assets/law.png" alt="Legal Philosophy visual">
-  <figcaption><!-- Optional caption --></figcaption>
+  <figcaption class="img-credit">Image credit: Example Source</figcaption>
 </figure>
 
 <div class="subhead">Paper 1 — Normativity and Legal Reasons</div>
