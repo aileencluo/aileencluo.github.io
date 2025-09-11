@@ -4,7 +4,6 @@ title: Teaching
 ---
 
 
-
 <div class="divider"></div>
 
 <!-- ===== Courses Taught ===== -->
@@ -38,3 +37,5 @@ title: Teaching
 
 <div class="subhead">Course 2 — Computing and Philosophy of Mind</div>
 <p class="subdesc">Explores links between computational models and philosophical theories of cognition, perception, and consciousness.</p>
+
+<div class="divider"></div>
