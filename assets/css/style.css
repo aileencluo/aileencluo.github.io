@@ -243,9 +243,9 @@ h2[id] {
   font-size: 0.8em;
   font-style: italic;
   color: #666;              /* 灰色小字 */
-  margin-top: 6px;
-  margin-bottom: 18px;
-  text-align: center;       /* 居中 */
+  text-align: right;          /* ✅ 改成右对齐 */
+  max-width: min(360px, 70%); /* ✅ 和图片宽度保持一致 */
+  margin: 6px auto 18px;      /* 上方6px，下方18px，居中对齐容器 */
 }
 
 
