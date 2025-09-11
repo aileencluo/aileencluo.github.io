@@ -244,3 +244,14 @@ h2[id] {
   h1{ font-size:2.1em; }
   .figure-torn{ width:95%; } /* 手机更贴边一些 */
 }
+
+/* 手机端导航标签自动换行 */
+@media (max-width: 768px){
+  .navbar {
+    flex-wrap: wrap;          /* ✅ 允许换行 */
+    justify-content: center;  /* 换行后保持居中 */
+    white-space: normal;      /* 不强制一行 */
+    overflow: visible;        /* 去掉横向滚动条 */
+  }
+}
+
