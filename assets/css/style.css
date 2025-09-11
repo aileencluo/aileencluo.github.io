@@ -179,7 +179,7 @@ main {
   position:relative;
   width: min(360px, 70%);   /* 更小：大屏最大 360px，小屏占 70% */
   aspect-ratio: 1 / 1;      /* 正方形 */
-  margin:20px auto 16px;
+  margin:20px auto 12px;
   filter:drop-shadow(0 6px 14px rgba(0,0,0,.12));
   overflow:hidden;          /* 防止内容溢出容器 */
 }
