@@ -3,9 +3,31 @@ layout: default
 title: Home
 ---
 
-Hello! I’m **Aileen C. Luo**, a scholar exploring Kantian philosophy and its intersections with modern thought.  
-This site presents my academic essays, ongoing research projects, and selected reflections on philosophy and aesthetics.
+<div class="divider"></div>
+
+<!-- ===== About ===== -->
+<h2 id="about" class="section-title">About</h2>
+
+<div class="about-container">
+  <!-- 左边：图片 -->
+  <div class="about-left">
+    <img src="assets/profile.jpg" alt="Profile photo" class="about-img">
+  </div>
+
+  <!-- 右边：文字 -->
+  <div class="about-right">
+    <p>Hello! I’m <strong>Aileen C. Luo</strong>, a scholar working at the intersection of Kantian philosophy, cognitive science, and modern thought. My research engages with classical texts while seeking connections to contemporary debates in epistemology, philosophy of mind, and aesthetics.</p>
+
+    <p>I also have teaching and research interests that bridge philosophy with AI and computer science, reflecting on both historical and forward-looking perspectives. This site provides a window into my essays, projects, teaching materials, and reflections.</p>
+  </div>
+</div>
+
+
+<!-- ===== Contact ===== -->
+<h2 id="contact" class="section-title">Contact</h2>
+
+<p>If you’d like to get in touch, please feel free to email me at:</p>
+<p><a href="mailto:aileen@example.com">aileen@example.com</a></p>
 
 <div class="divider"></div>
 
-Please use the navigation above to explore different sections of my academic work and personal reflections.
