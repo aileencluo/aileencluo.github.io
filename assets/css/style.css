@@ -116,12 +116,11 @@ a:hover{
   text-align: left;
 
   /* 保证子分类竖排 */
-  white-space: normal;
-  display: block;
-
-  /* 去掉滚动条 */
-  max-height: none !important;
-  overflow: visible !important;
+  white-space: normal !important;   /* 覆盖横排，允许换行 */
+  display: flex;                    /* Flex 布局 */
+  flex-direction: column;           /* ✅ 强制竖排 */
+  max-height: none !important;      /* 不限制高度 */
+  overflow: visible !important;     /* 不要滚动条 */
 }
 
 .dropdown-content a {
@@ -139,7 +138,7 @@ a:hover{
 
 /* 悬停时展开 */
 .dropdown:hover .dropdown-content {
-  display: block;
+  display: flex;
 }
 
 
