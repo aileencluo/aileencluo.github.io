@@ -7,8 +7,8 @@ title: Teaching
 
 <div class="divider"></div>
 
-<!-- ===== Philosophy ===== -->
-<h2 id="philosophy" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Philosophy</h2>
+<!-- ===== Courses Taught ===== -->
+<h2 id="courses taught" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Courses Taught</h2>
 <p>Teaching experience in philosophy includes courses and seminars on Kant, early modern philosophy, moral and political theory, and the history of psychology. I emphasize close textual reading, argument analysis, and connecting classical texts to present-day debates.</p>
 
 <figure class="figure-torn">
@@ -23,8 +23,8 @@ title: Teaching
 <p class="subdesc">An introduction to Kantian moral theory and its implications for contemporary issues in legal philosophy and political obligation.</p>
 
 
-<!-- ===== AI and CS ===== -->
-<h2 id="ai-cs" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">AI and CS</h2>
+<!-- ===== Sample Syllabus ===== -->
+<h2 id="sample syllabus" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Sample Syllabus</h2>
 <p>In computer science and AI contexts, I focus on bridging technical material with conceptual clarity. Courses aim to provide students with both practical skills and a critical perspective on AI systems and their broader implications.</p>
 
 <figure class="figure-torn">
