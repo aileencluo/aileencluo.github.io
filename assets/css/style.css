@@ -237,6 +237,18 @@ h2[id] {
 .mb20{ margin-bottom:20px !important; }
 
 /* =========================
+   Image Credit Style
+   ========================= */
+.img-credit {
+  font-size: 0.8em;
+  font-style: italic;
+  color: #666;              /* 灰色小字 */
+  margin-top: 6px;
+  text-align: center;       /* 居中 */
+}
+
+
+/* =========================
    Responsive Tweaks
    ========================= */
 @media (max-width: 768px){
