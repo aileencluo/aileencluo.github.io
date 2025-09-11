@@ -244,6 +244,7 @@ h2[id] {
   font-style: italic;
   color: #666;              /* 灰色小字 */
   margin-top: 6px;
+  margin-bottom: 18px;
   text-align: center;       /* 居中 */
 }
 
