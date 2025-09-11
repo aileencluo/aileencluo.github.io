@@ -159,6 +159,36 @@ main {
 }
 
 /* =========================
+   Home Page – About Layout
+   ========================= */
+.about-container {
+  display: flex;
+  flex-wrap: wrap;         /* 手机端自动换行 */
+  gap: 20px;
+  align-items: center;     /* 图片和文字居中对齐 */
+  margin-bottom: 40px;
+}
+
+.about-left {
+  flex: 1 1 250px;         /* 图片区域最小250px，响应式缩放 */
+  text-align: center;
+}
+
+.about-img {
+  max-width: 100%;
+  border: 6px solid #fff;  /* 白色边框 */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1); /* 阴影让边框更突出 */
+}
+
+.about-right {
+  flex: 2 1 400px;         /* 文字区域更大 */
+  font-family: 'Inter', sans-serif;
+  font-size: 1.05em;
+  line-height: 1.7;
+}
+
+
+/* =========================
    Research Page – Subsections
    ========================= */
 .subhead{
@@ -204,7 +234,6 @@ main {
   display:block;
   transform: scale(1.02); /* 轻微放大，避免出现细白缝 */
 
-  
   
   filter:contrast(1.02) saturate(0.92);
 }
