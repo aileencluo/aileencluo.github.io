@@ -142,7 +142,7 @@ main {
    ========================= */
 .divider{
   height:2px;
-  width:50px;
+  width:150px;
   background:var(--brand);
   margin:40px auto;
 }
