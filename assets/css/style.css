@@ -220,7 +220,7 @@ main {
    Anchor Scroll Offset
    ========================= */
 h2[id] {
-  scroll-margin-top: 100px; /* 避免被 sticky navbar 遮挡 */
+  scroll-margin-top: 120px; /* 避免被 sticky navbar 遮挡 */
 }
 
 /* =========================
@@ -251,7 +251,7 @@ h2[id] {
     flex-wrap: wrap;          /* ✅ 允许换行 */
     justify-content: center;  /* 换行后保持居中 */
     white-space: normal;      /* 不强制一行 */ 
-    gap: 10px 20px !important;  /* ✅ 第一个数是行距(竖直间距)，第二个是列距(水平间距) */
+    gap: 5px 10px !important;  /* ✅ 第一个数是行距(竖直间距)，第二个是列距(水平间距) */
   }
 }
 
