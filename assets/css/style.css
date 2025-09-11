@@ -77,7 +77,7 @@ a:hover{
 .navbar a,
 .navbar .dropbtn {
   font-weight: 600;
-  font-family:'Cormorant Garamond', sans-serif;
+  font-family:'Cormorant Garamond', serif;
   color: var(--brand);
   text-decoration: none;
   padding: 6px 10px;
@@ -95,10 +95,10 @@ a:hover{
    ========================= */
 .dropdown {
   position: relative;
-  overflow: visible !important;
+  overflow: visible !important; /* 保证子菜单不被裁切 */
 }
 .dropdown-content {
-  display: none;
+  display: none;                /* 默认隐藏 */
   position: absolute;
   min-width: 240px;
   padding: 10px 0;
@@ -112,17 +112,29 @@ a:hover{
   z-index: 1000;
   text-align: left;
 
+  /* 强制竖排，去掉滚动条 */
+  display: flex;
+  flex-direction: column;
   max-height: none !important;
   overflow: visible !important;
+  white-space: normal;
 }
-.dropdown-content::-webkit-scrollbar {
-  width: 0;
-  height: 0;
-}
-.dropdown:hover .dropdown-content {
+.dropdown-content a {
+  color: var(--ink);
+  padding: 10px 16px;
+  text-decoration: none;
   display: block;
+  transition: background 0.3s, color 0.3s;
+  border-radius: 4px;
 }
-
+.dropdown-content a:hover {
+  background: rgba(0,0,0,0.05);
+  color: var(--accent);
+}
+/* 悬停时展开 */
+.dropdown:hover .dropdown-content {
+  display: flex;
+}
 
 /* =========================
    Divider
