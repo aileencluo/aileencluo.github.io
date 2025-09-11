@@ -3,7 +3,6 @@ layout: default
 title: Research
 ---
 
-<p>My research explores the intersections of historical philosophy, cognitive science, and contemporary theoretical debates. I aim to connect rigorous analysis of classical texts with innovative approaches to understanding the mind, knowledge, and law.</p>
 
 <div class="divider"></div>
 
@@ -75,3 +74,5 @@ title: Research
 
 <div class="subhead">Paper 2 — Responsibility, Agency, and Evidence</div>
 <p class="subdesc">Explores agency-sensitive models of responsibility and how evidential standards can reflect underlying normative commitments.</p>
+
+<div class="divider"></div>
