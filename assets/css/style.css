@@ -182,7 +182,7 @@ main {
 
 .about-right {
   flex: 2 1 400px;         /* 文字区域更大 */
-  font-family: 'Inter', sans-serif;
+  font-family: 'Cormorant Garamond', sans-serif;
   font-size: 1.05em;
   line-height: 1.7;
 }
