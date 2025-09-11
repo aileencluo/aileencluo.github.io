@@ -50,6 +50,7 @@ a:hover{
   text-decoration:none;
 }
 
+
 /* =========================
    Modern Sticky Navbar
    ========================= */
@@ -68,10 +69,21 @@ a:hover{
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 
   z-index: 1000;
-  overflow-x: auto;  /* 手机上可横向滚动 */
-  white-space: nowrap;
+
+  /* 桌面端：干净无滚动条 */
+  overflow: visible;
+  white-space: normal;
 }
-.navbar::-webkit-scrollbar { display: none; } /* 隐藏滚动条 */
+
+/* 手机端（≤768px）：允许横向滑动导航 */
+@media (max-width: 768px){
+  .navbar {
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  .navbar::-webkit-scrollbar { display: none; } /* 隐藏滚动条 */
+}
+
 
 /* 导航链接 */
 .navbar a,
