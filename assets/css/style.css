@@ -177,11 +177,13 @@ main {
    ========================= */
 .figure-torn{
   position:relative;
-  width: min(360px, 70%);   /* 更小：大屏最大 360px，小屏占 70% */
+  width: min(320px, 70%);   /* 更小：大屏最大 360px，小屏占 70% */
   aspect-ratio: 1 / 1;      /* 正方形 */
   margin:20px auto 12px;
   filter:drop-shadow(0 6px 14px rgba(0,0,0,.12));
   overflow:hidden;          /* 防止内容溢出容器 */
+  background: transparent !important;  /* 移除背景 */
+  border: none !important;             /* 移除边框 */
 }
 
 /* 图像填充容器并裁剪；撕碎边缘 clip-path 可按需微调 */
@@ -192,7 +194,7 @@ main {
   height:100%;
   object-fit:cover;         /* 保持比例、填满、裁剪溢出 */
   display:block;
-  transform: scale(1.02); /* 轻微放大，避免出现细白缝 */
+  transform: scale(1.05); /* 轻微放大，避免出现细白缝 */
 
   clip-path: polygon(
     4% 6%, 10% 3%, 18% 5%, 28% 2%, 40% 4%, 52% 1%,
