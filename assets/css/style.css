@@ -245,7 +245,7 @@ h2[id] {
   color: #666;              /* 灰色小字 */
   text-align: right;          /* ✅ 改成右对齐 */
   max-width: min(360px, 70%); /* ✅ 和图片宽度保持一致 */
-  margin: 6px auto 18px;      /* 上方6px，下方18px，居中对齐容器 */
+  margin: 4px auto 18px;      /* 上方6px，下方18px，居中对齐容器 */
 }
 
 
