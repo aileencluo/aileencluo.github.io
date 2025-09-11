@@ -13,8 +13,8 @@ title: Teaching
 
 <figure class="figure-torn">
   <img src="assets/teaching-philosophy.png" alt="Teaching Philosophy visual">
-  <figcaption><!-- Optional caption --></figcaption>
 </figure>
+<p class="img-credit">Image credit: Example Source</p>
 
 <div class="subhead">Course 1 — Kant and Modern Philosophy</div>
 <p class="subdesc">An upper-level seminar on Kant’s *Critique of Pure Reason*, designed to build close reading skills and situate Kant in relation to Descartes, Hume, and German Idealism.</p>
@@ -31,6 +31,7 @@ title: Teaching
   <img src="assets/teaching-ai.png" alt="Teaching AI and CS visual">
   <figcaption><!-- Optional caption --></figcaption>
 </figure>
+<p class="img-credit">Image credit: Example Source</p>
 
 <div class="subhead">Course 1 — Introduction to AI and Ethics</div>
 <p class="subdesc">Covers basic machine learning concepts alongside normative frameworks for evaluating AI systems. Emphasis on fairness, accountability, and transparency.</p>
