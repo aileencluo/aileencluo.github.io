@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-<p>My teaching spans both traditional philosophy and contemporary topics at the intersection of AI and computer science. I aim to bring historical insight and rigorous conceptual frameworks into dialogue with modern technical developments.</p>
+
 
 <div class="divider"></div>
 
