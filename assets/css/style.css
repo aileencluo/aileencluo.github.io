@@ -182,19 +182,6 @@ main {
   margin:20px auto 12px;
   filter:drop-shadow(0 6px 14px rgba(0,0,0,.12));
   overflow:hidden;          /* 防止内容溢出容器 */
-  background: transparent !important;  /* 移除背景 */
-  border: none !important;             /* 移除边框 */
-}
-
-/* 图像填充容器并裁剪；撕碎边缘 clip-path 可按需微调 */
-.figure-torn img{
-  position:absolute;
-  inset:0;
-  width:100%;
-  height:100%;
-  object-fit:cover;         /* 保持比例、填满、裁剪溢出 */
-  display:block;
-  transform: scale(1.05); /* 轻微放大，避免出现细白缝 */
 
   clip-path: polygon(
     4% 6%, 10% 3%, 18% 5%, 28% 2%, 40% 4%, 52% 1%,
@@ -205,6 +192,19 @@ main {
     30% 96%, 20% 98%, 12% 95%, 7% 92%, 
     5% 84%, 3% 73%, 6% 61%, 4% 49%, 2% 38%, 5% 27%, 3% 16%
   );
+}
+
+/* 图像填充容器并裁剪；撕碎边缘 clip-path 可按需微调 */
+.figure-torn img{
+  position:static;
+  inset:0;
+  width:100%;
+  height:100%;
+  object-fit:cover;         /* 保持比例、填满、裁剪溢出 */
+  display:block;
+  transform: scale(1.02); /* 轻微放大，避免出现细白缝 */
+
+  
   
   filter:contrast(1.02) saturate(0.92);
 }
