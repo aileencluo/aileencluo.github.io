@@ -17,8 +17,14 @@
        Navigation (Sticky + Glass Style)
        ========================= -->
   <nav class="navbar">
-    <!-- 首页 -->
-    <a href="{{ '/' | relative_url }}">Home</a>
+    <!-- Home 下拉菜单 -->
+  <div class="dropdown">
+    <a href="{{ '/' | relative_url }}" class="dropbtn">Home ▾</a>
+    <div class="dropdown-content">
+      <a href="{{ '/#about' | relative_url }}">About</a>
+      <a href="{{ '/#contact' | relative_url }}">Contact</a>
+    </div>
+  </div>
 
     <!-- Research 下拉菜单 -->
     <div class="dropdown">
