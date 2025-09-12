@@ -11,7 +11,7 @@ title: Home
 <div class="about-container">
   <!-- 左边：图片 -->
   <div class="about-left">
-    <img src="assets/profile.jpg" alt="Profile photo" class="about-img">
+    <img src="assets/Grenzen_des_Verstandes,_Paul_Klee.jpg" alt="Profile photo" class="about-img">
     <p class="img-credit">Image credit: Example Source</p>
   </div>
 
