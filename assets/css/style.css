@@ -177,8 +177,10 @@ main {
 
 .about-img {
   max-width: 100%;
+  width: 100%;              /* ✅ 在手机端自动跟随文字宽度 */
   border: 6px solid #fff;  /* 白色边框 */
   box-shadow: 0 4px 12px rgba(0,0,0,0.1); /* 阴影让边框更突出 */
+  height: auto;             /* ✅ 保持比例 */
 }
 
 .about-right {
@@ -303,6 +305,16 @@ h2[id] {
   .navbar .dropbtn {
     margin-bottom: 0 !important; /* ✅ 去掉多余的竖直间距 */
     line-height: 1.4 !important; /* ✅ 收紧按钮高度 */
+  }
+}
+
+@media (max-width: 768px) {
+  .about-left {
+    width: 100%;            /* ✅ 宽度和正文一致 */
+    text-align: center;
+  }
+  .about-img {
+    max-width: 90%;         /* ✅ 图片不会顶到页面两侧，留出和文字一样的左右空白 */
   }
 }
 
