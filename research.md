@@ -11,7 +11,7 @@ title: Research
 <p>Focused studies on Kantian philosophy, including epistemology, metaphysics, and moral theory. This line of research investigates how Kant’s ideas can illuminate contemporary debates in philosophy of mind and ethics.</p>
 
 <figure class="figure-torn">
-  <img src="assets/npr.brightspotcdn.webp" alt="Kant research visual">
+  <img src="assets/kant.png" alt="Kant research visual">
 </figure>
 <p class="img-credit">Immanuel Kant (1724-1804)</p>
 
