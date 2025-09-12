@@ -170,7 +170,7 @@ main {
 }
 
 .about-left {
-  flex: 1 1 250px;         /* 图片区域最小250px，响应式缩放 */
+  flex: 1.2 1 300px;         /* 图片区域最小250px，响应式缩放 */
   text-align: center;
   margin-top: 20px; 
 }
@@ -184,7 +184,7 @@ main {
 }
 
 .about-right {
-  flex: 2 1 400px;         /* 文字区域更大 */
+  flex: 1.8 1 400px;         /* 文字区域更大 */
   font-family: 'Cormorant Garamond', sans-serif;
   font-size: 1.05em;
   line-height: 1.7;
