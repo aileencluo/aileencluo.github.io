@@ -164,7 +164,7 @@ main {
 .about-container {
   display: flex;
   flex-wrap: wrap;         /* 手机端自动换行 */
-  gap: 20px;
+  gap: 40px;
   align-items: center;     /* 图片和文字居中对齐 */
   margin-bottom: 40px;
 }
@@ -172,6 +172,7 @@ main {
 .about-left {
   flex: 1 1 250px;         /* 图片区域最小250px，响应式缩放 */
   text-align: center;
+  margin-top: 20px; 
 }
 
 .about-img {
