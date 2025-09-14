@@ -191,7 +191,7 @@ main {
 }
 
 .about-left .img-credit {
-  max-width: 300px;   /* Home 页图片宽度 */
+  max-width: 360px;   /* Home 页图片宽度 */
 }
 
 .figure-torn + .img-credit {
