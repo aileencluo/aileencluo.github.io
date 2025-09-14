@@ -216,6 +216,16 @@ main {
   filter:drop-shadow(0 6px 14px rgba(0,0,0,.12));
   overflow:hidden;          /* 防止内容溢出容器 */
 
+.figure-torn + .img-credit {
+  width: min(320px, 70%);
+  margin: 6px auto 18px;   /* 图片与 credit 间隔 6px，credit 与下方内容间隔 18px */
+  text-align: right;
+  font-size: 0.8em;
+  font-style: italic;
+  color: #666;
+}
+
+
   clip-path: polygon(
     4% 6%, 10% 3%, 18% 5%, 28% 2%, 40% 4%, 52% 1%,
     63% 3%, 72% 2%, 82% 5%, 92% 3%, 97% 8%, 99% 16%,
