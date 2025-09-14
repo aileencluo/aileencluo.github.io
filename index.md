@@ -11,12 +11,11 @@ title: Home
 <div class="about-container">
   <!-- 左边：图片 -->
   <div class="about-left">
-    <figure class="about-figure">
-      <img src="assets/Grenzen_des_Verstandes,_Paul_Klee.jpg" alt="Profile photo" class="about-img">
+    <img src="assets/Grenzen_des_Verstandes,_Paul_Klee.jpg" alt="Profile photo" class="about-img">
     <p class="img-credit">Paul Klee, Limits of Reason (Grenzen des Verstandes)</p>
   </div>
-  
 
+  
   <!-- 右边：文字 -->
   <div class="about-right">
     <p>Hello! I’m <strong>Aileen C. Luo</strong>, a scholar working at the intersection of Kantian philosophy, cognitive science, and modern thought. My research engages with classical texts while seeking connections to contemporary debates in epistemology, philosophy of mind, and aesthetics.</p>
