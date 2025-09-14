@@ -12,7 +12,7 @@ title: Home
   <!-- 左边：图片 -->
   <div class="about-left">
     <img src="assets/Grenzen_des_Verstandes,_Paul_Klee.jpg" alt="Profile photo" class="about-img">
-    <p class="img-credit">Image credit: Example Source</p>
+    <p class="img-credit">Paul Klee, Limits of Reason (Grenzen des Verstandes)</p>
   </div>
 
   <!-- 右边：文字 -->
