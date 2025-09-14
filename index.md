@@ -12,9 +12,8 @@ title: Home
   <!-- 左边：图片 -->
   <div class="about-left">
     <figure class="about-figure">
-      <img src="assets/Grenzen_des_Verstandes,_Paul_Klee.jpg" alt="Portrait or related visual" class="about-img">
-      <figcaption class="img-credit">Paul Klee, Limits of Reason (Grenzen des Verstandes)</figcaption>
-    </figure>
+      <img src="assets/Grenzen_des_Verstandes,_Paul_Klee.jpg" alt="Profile photo" class="about-img">
+    <p class="img-credit">Paul Klee, Limits of Reason (Grenzen des Verstandes)</p>
   </div>
   
 
