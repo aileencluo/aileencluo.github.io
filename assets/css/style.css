@@ -217,7 +217,7 @@ main {
   overflow:hidden;          /* 防止内容溢出容器 */
 
 .figure-torn + .img-credit {
-  width: min(320px, 70%);
+  max-width: min(320px, 70%);
   margin: 6px auto 18px;   /* 图片与 credit 间隔 6px，credit 与下方内容间隔 18px */
   text-align: right;
   font-size: 0.8em;
