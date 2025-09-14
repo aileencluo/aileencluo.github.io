@@ -247,8 +247,6 @@ main {
   object-fit:cover;         /* 保持比例、填满、裁剪溢出 */
   display:block;
   transform: scale(1.02); /* 轻微放大，避免出现细白缝 */
-
-  
   filter:contrast(1.02) saturate(0.92);
 }
 
@@ -260,6 +258,39 @@ main {
   color:var(--ink-2);
   margin-top:6px;
 }
+
+/* =========================
+   Trivia Page
+   ========================= */
+.trivia-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+.trivia-left {
+  flex: 1.5 1 400px;
+}
+
+.trivia-right {
+  flex: 1 1 300px;
+  text-align: center;
+}
+
+/* 图片样式（与 Home 页呼应） */
+.trivia-figure {
+  display: inline-block;
+  margin: 0;
+}
+.trivia-img {
+  max-width: 100%;
+  border: 6px solid #fff;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  height: auto;
+}
+
 
 /* =========================
    Anchor Scroll Offset
@@ -326,6 +357,20 @@ h2[id] {
   }
   .about-img {
     max-width: 90%;         /* ✅ 图片不会顶到页面两侧，留出和文字一样的左右空白 */
+  }
+}
+
+/* 手机端：上下堆叠 */
+@media (max-width: 768px) {
+  .trivia-wrapper {
+    flex-direction: column;
+    gap: 24px;
+  }
+  .trivia-left, .trivia-right {
+    width: 100%;
+  }
+  .trivia-img {
+    max-width: 90%;   /* 保持和正文宽度一致 */
   }
 }
 
