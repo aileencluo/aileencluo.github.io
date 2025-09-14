@@ -170,7 +170,7 @@ main {
 }
 
 .about-left {
-  flex: 1.2 1 320px;         /* 图片区域最小250px，响应式缩放 */
+  flex: 1.2 1 300px;         /* 图片区域最小250px，响应式缩放 */
   text-align: center;
   margin-top: 20px; 
 }
@@ -188,6 +188,14 @@ main {
   font-family: 'Cormorant Garamond', sans-serif;
   font-size: 1.05em;
   line-height: 1.7;
+}
+
+.about-left .img-credit {
+  max-width: 300px;   /* Home 页图片宽度 */
+}
+
+.figure-torn + .img-credit {
+  max-width: 320px;   /* Research 页图片宽度 */
 }
 
 
@@ -281,8 +289,7 @@ h2[id] {
   font-style: italic;
   color: #666;              /* 灰色小字 */
   text-align: right;          /* ✅ 改成右对齐 */
-  width: 100%;              /* ✅ 占满父容器 */
-  max-width: inherit;       /* ✅ 跟随父容器的最大宽度 */
+  
   margin: 6px auto 18px;      /* 上方6px，下方18px，居中对齐容器 */
 }
 
