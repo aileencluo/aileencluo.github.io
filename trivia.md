@@ -34,7 +34,7 @@ title: Trivia
       <img src="assets/trivia-photo.webp" alt="Trivia visual" class="trivia-img">
     </figure>
   </div>
-</div>
+
 
 <div class="divider"></div>
 
