@@ -170,7 +170,7 @@ main {
 }
 
 .about-left {
-  flex: 1.2 1 300px;         /* 图片区域最小250px，响应式缩放 */
+  flex: 1.2 1 320px;         /* 图片区域最小250px，响应式缩放 */
   text-align: center;
   margin-top: 20px; 
 }
