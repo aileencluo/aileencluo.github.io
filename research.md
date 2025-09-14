@@ -12,8 +12,8 @@ title: Research
 
 <figure class="figure-torn">
   <img src="assets/kant.png" alt="Kant research visual">
-  <figcaption class="img-credit">Immanuel Kant (1724-1804)</figcaption>
 </figure>
+<p class="img-credit">Immanuel Kant (1724-1804)</p>
 
 
 <div class="subhead">Paper 1 — Synthetic A Priori & Representation</div>
@@ -32,8 +32,9 @@ title: Research
 
 <figure class="figure-torn">
   <img src="assets/jean-piaget.png" alt="History & Philosophy of Psychology visual">
-  <figcaption class="img-credit">Jean Piaget (1896-1980)</figcaption>
 </figure>
+<p class="img-credit">Jean Piaget (1896-1980)</p>
+ 
 
 
 <div class="subhead">Paper 1 — From Faculty Psychology to Mechanisms</div>
