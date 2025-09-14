@@ -3,6 +3,8 @@ layout: default
 title: Trivia
 ---
 
+<div class="divider"></div>
+
 <h2 class="section-title">Trivia</h2>
 
 <div class="trivia-wrapper">
@@ -35,3 +37,6 @@ title: Trivia
     </figure>
   </div>
 </div>
+
+<div class="divider"></div>
+
