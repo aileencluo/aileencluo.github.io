@@ -6,8 +6,6 @@ title: Trivia
 <div class="divider"></div>
 
 
-
-<div class="trivia-wrapper">
   <!-- 左边文字 -->
   <div class="trivia-left">
     <h2 class="section-title">Calligraphy</h2>
