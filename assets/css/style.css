@@ -276,7 +276,7 @@ main {
 }
 
 .trivia-left .section-title {
-  margin-top: 10px;   /* 比默认40px小一半 */
+  margin-top: 0px;   /* 比默认40px小一半 */
 }
 
 
