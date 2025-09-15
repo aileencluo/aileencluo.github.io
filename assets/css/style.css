@@ -264,12 +264,15 @@ main {
   display: flex;
   flex-wrap: wrap;
   gap: 40px;
-  align-items: flex-start;
+  align-items: center;
   margin-bottom: 40px;
 }
 
 .trivia-left {
   flex: 1.5 1 400px;
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 1.05em;
+  line-height: 1.7;
 }
 
 .trivia-right {
