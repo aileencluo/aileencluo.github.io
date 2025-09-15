@@ -30,9 +30,7 @@ title: Trivia
 
   <!-- 右边图片 -->
   <div class="trivia-right">
-    <figure class="trivia-figure">
-      <img src="assets/trivia-photo.webp" alt="Trivia visual" class="trivia-img">
-    </figure>
+    <img src="assets/trivia-photo.webp" alt="Trivia visual" class="trivia-img">
   </div>
 </div>
 
