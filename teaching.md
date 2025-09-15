@@ -11,13 +11,12 @@ title: Teaching
 <p>Teaching experience in philosophy includes courses and seminars on Kant, early modern philosophy, moral and political theory, and the history of psychology. I emphasize close textual reading, argument analysis, and connecting classical texts to present-day debates.</p>
 
 <div class="subhead">History of Philosophy:</div>
-<p class="subdesc">Kant’s First Critique (Guest lecturer)</p>
+<p class="subdesc">Kant’s First Critique (Guest lecturer)<br>
+Theories of Consciousness in Early Modern Philosophy<br>
+Modern Philosophy<br>
+Plato and Punishment
+</p>
 
-<p class="subdesc">Theories of Consciousness in Early Modern Philosophy</p>
-
-<p class="subdesc">Modern Philosophy</p>
-
-<p class="subdesc">Plato and Punishment</p>
 
 <div class="subhead">Philosophy of Mind and Cognitive Science:</div>
 <p class="subdesc">Mind, Matter, and Meaning</p>
