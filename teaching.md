@@ -19,25 +19,22 @@ Plato and Punishment
 
 
 <div class="subhead">Philosophy of Mind and Cognitive Science:</div>
-<p class="subdesc">Mind, Matter, and Meaning</p>
+<p class="subdesc">Mind, Matter, and Meaning<br>
+Minds and Machines
+</p>
 
-<p class="subdesc">Minds and Machines</p>
 
 <div class="subhead">Introductory Classes:</div>
-<p class="subdesc">Introduction to Philosophy</p>
+<p class="subdesc">Introduction to Philosophy<br>
+Introduction to Moral Philosophy<br>
+Mathematical Logic
+</p>
 
-<p class="subdesc">Introduction to Moral Philosophy</p>
-
-<p class="subdesc">Mathematical Logic</p>
 
 <!-- ===== Sample Syllabus ===== -->
 <h2 id="sample syllabus" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Sample Syllabus</h2>
-<p>In computer science and AI contexts, I focus on bridging technical material with conceptual clarity. Courses aim to provide students with both practical skills and a critical perspective on AI systems and their broader implications.</p>
+<p>(To be available soon...)</p>
 
-<div class="subhead">Course 1 — Introduction to AI and Ethics</div>
-<p class="subdesc">Covers basic machine learning concepts alongside normative frameworks for evaluating AI systems. Emphasis on fairness, accountability, and transparency.</p>
 
-<div class="subhead">Course 2 — Computing and Philosophy of Mind</div>
-<p class="subdesc">Explores links between computational models and philosophical theories of cognition, perception, and consciousness.</p>
 
 <div class="divider"></div>
