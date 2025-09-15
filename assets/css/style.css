@@ -275,6 +275,11 @@ main {
   line-height: 1.7;
 }
 
+.trivia-left .section-title {
+  margin-top: 20px;   /* 比默认40px小一半 */
+}
+
+
 .trivia-right {
   flex: 1 1 300px;
   text-align: center;
