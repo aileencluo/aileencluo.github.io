@@ -5,7 +5,7 @@ title: Trivia
 
 <div class="divider"></div>
 
-
+<div class="trivia-wrapper">
   <!-- 左边文字 -->
   <div class="trivia-left">
     <h2 class="section-title">Calligraphy</h2>
@@ -34,7 +34,7 @@ title: Trivia
       <img src="assets/trivia-photo.webp" alt="Trivia visual" class="trivia-img">
     </figure>
   </div>
-
+</div>
 
 <div class="divider"></div>
 
