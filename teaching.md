@@ -8,7 +8,7 @@ title: Teaching
 
 <!-- ===== Courses Taught ===== -->
 <h2 id="courses taught" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Courses Taught</h2>
-<p>Teaching experience in philosophy includes courses and seminars on Kant, early modern philosophy, moral and political theory, and the history of psychology. I emphasize close textual reading, argument analysis, and connecting classical texts to present-day debates.</p>
+
 
 <div class="subhead">History of Philosophy:</div>
 <p class="subdesc">Kant’s First Critique (Guest lecturer)<br>
