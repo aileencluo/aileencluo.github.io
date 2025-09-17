@@ -8,9 +8,7 @@ title: Trivia
 <!-- ===== Calligraphy ===== -->
 <h2 id="calligraphy" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Calligraphy</h2>
 <p>
-  I study East Asian calligraphy as a meditative practice and as an extension of aesthetic 
-  philosophy. The discipline of brushwork reflects balance, patience, and form that resonates 
-  with philosophical inquiry.
+  I began practicing calligraphy around the age of six, and it has remained a quiet source of joy ever since.
 </p>
 
 <!-- ===== Pottery ===== -->
