@@ -31,7 +31,7 @@ title: Research
 
 <!-- ===== History and Philosophy of Psychology ===== -->
 <h2 id="history-psych" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">History and Philosophy of Psychology</h2>
-<p>Exploring the development of psychological theories and their philosophical foundations. This research bridges historical perspectives with modern cognitive theories, highlighting conceptual continuity and transformation.</p>
+<p>A second, emerging area of my research traces the historical development of theories of learning and education, with a focus on figures such as Locke, Rousseau, and Piaget. This line of work aims to uncover a continuity in how these thinkers conceive the child as a cognitive agent-in-formation and how learning functions as a crucial site of cognitive development. I am currently developing this area along the following themes.</p>
 
 <figure class="figure-torn">
   <img src="assets/jean-piaget.png" alt="History & Philosophy of Psychology visual">
@@ -40,11 +40,11 @@ title: Research
  
 
 
-<div class="subhead">Paper 1 — From Faculty Psychology to Mechanisms</div>
-<p class="subdesc">Traces shifts from faculty psychology to mechanistic explanations, showing how older taxonomies still scaffold present-day research programs.</p>
+<div class="subhead">5. “The Discovery of the Child: Locke on Education”</div>
+<p class="subdesc">In <em>Some Thoughts Concerning Education</em> (1693), Locke insists that learning must be made pleasant, warning that fear, punishment, or rote drills leads to aversion rather than understanding. I propose that Locke treats pleasure and play as the affective ground of cognition. On this reading, Locke offers an early theory of intrinsic motivation in cognitive development that anticipates Piaget’s play-based constructivism.</p>
 
-<div class="subhead">Paper 2 — Introspection, Measurement, and Method</div>
-<p class="subdesc">Assesses the philosophical status of introspection and the emergence of measurement norms, relating them to current methodological debates.</p>
+<div class="subhead">6. “Piaget on the Decentering of Consciousness”</div>
+<p class="subdesc">In <em>The Child’s Conception of the World</em> (1929) and <em>The Child’s Conception of Physical Causality</em> (1930), Piaget describes children as initially “egocentric,” unable to distinguish their own perspective from that of others. He argues that decentering—overcoming egocentrism—arises through social interaction and the coordination of perspectives. I propose that this developmental shift parallels Kant’s distinction in the <em>Prolegomena</em> between judgments of perception, which are merely subjective, and judgments of experience, which claim objective validity. On this reading, Piaget offers a developmental analogue to the transition from subjective to objective judgment.</p>
 
 
 <!-- ===== Philosophy of Cognitive Science ===== -->
