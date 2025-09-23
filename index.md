@@ -28,8 +28,7 @@ title: Home
 <!-- ===== Contact ===== -->
 <h2 id="contact" class="section-title">Contact</h2>
 
-<p>If you’d like to get in touch, please feel free to email me at:</p>
-<p><a href="mailto:aileen@example.com">aileen@example.com</a></p>
+<p>If you’d like to get in touch, please feel free to email me at: <a href="mailto:aileencluo@gmail.com">aileencluo@gmail.com</a></p>
 
 <div class="divider"></div>
 
