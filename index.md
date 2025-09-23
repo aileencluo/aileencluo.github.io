@@ -18,9 +18,9 @@ title: Home
   
   <!-- 右边：文字 -->
   <div class="about-right">
-    <p>Hello! I’m <strong>Aileen C. Luo</strong>, a scholar working at the intersection of Kantian philosophy, cognitive science, and modern thought. My research engages with classical texts while seeking connections to contemporary debates in epistemology, philosophy of mind, and aesthetics.</p>
+    <p>Hello! I’m Aileen. I am a PhD candidate in Philosophy at Stanford University, where I also pursue a PhD minor in Psychology. My research focuses on Kant’s theoretical philosophy, especially where it intersects with epistemology and the philosophy of psychology. I am equally drawn to the history and philosophy of psychology, as well as contemporary debates in cognitive science and artificial intelligence. Before turning to philosophy, I trained in law (LLB, LLM, and a practicing certificate in Hong Kong). Outside of academic work, I enjoy photography, film, rock music, and travel—but above all, I cherish time spent with my partner and our cat, Galileo.</p>
 
-    <p>I also have teaching and research interests that bridge philosophy with AI and computer science, reflecting on both historical and forward-looking perspectives. This site provides a window into my essays, projects, teaching materials, and reflections.</p>
+    
   </div>
 </div>
 
