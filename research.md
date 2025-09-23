@@ -48,37 +48,34 @@ title: Research
 
 
 <!-- ===== Philosophy of Cognitive Science ===== -->
-<h2 id="cogsci" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Philosophy of Cognitive Science</h2>
-<p>Investigating questions raised by contemporary cognitive science, including representation, consciousness, and computational models of the mind. The aim is to integrate rigorous conceptual analysis with empirical insights.</p>
+<h2 id="cogsci" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Philosophy of Cognitive Science and AI</h2>
+<p>A third, emerging area of my research engages with contemporary philosophy of cognitive science and AI, focusing on how insights from Kant and other historical figures can illuminate current dates about cognition, learning, and agency. I am currently developing this area along the following themes.</p>
 
 <figure class="figure-torn">
   <img src="assets/cognitive.png" alt="Cognitive Science visual">
 </figure>
 
 
-<div class="subhead">Paper 1 — Levels of Computation & Explanation</div>
-<p class="subdesc">Clarifies levels-based explanation in cognitive models, situating computational, algorithmic, and implementational claims within a single normative frame.</p>
+<div class="subhead">7. “Recognizing Opportunities for Learning: Limitations of Predictive Processing from a Kantian Perspective” (talk presented at the Society for Philosophy & Psychology)</div>
+<p class="subdesc">This paper argues that predictive processing (PP), while a powerful model of the brain as a prediction machine, fails to capture the agential dimension of intrinsically motivated learning. Drawing on Kant’s notion of recognition, I propose that genuine learning requires a form of “second-order recognition,” where agents not only register but endorse the very principles that guide their learning. This Kantian move reframes autonomy as central to cognition and provides resources for extending PP beyond prediction-error minimization to encompass essential forms of human cognition such as creativity, curiosity, and self-actualization.</p>
 
-<div class="subhead">Paper 2 — Perception, Prediction, and Concept Use</div>
-<p class="subdesc">Connects predictive processing accounts with concept acquisition and perceptual learning, arguing for a principled link between inference and representation.</p>
-
-<div class="subhead">Paper 3 — (Optional)</div>
-<p class="subdesc">Add a brief 2–3 sentence summary here.</p>
+<div class="subhead">8. “Imagination, Self-efficacy, and the Human Edge”</div>
+<p class="subdesc">This paper argues that imagination underwrites rational self-efficacy in fundamentally different ways for humans and artificial agents. Human imagination is not merely stipulative, as in symbolic recombination, but also qualitative, involving phenomenologically rich, first-person projections into possible futures. Because artificial systems lack this qualitative dimension, they cannot generate the felt sense of coherence and achievability that grounds human self-belief.</p>
 
 
-<!-- ===== Legal Philosophy ===== -->
-<h2 id="legal" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Legal Philosophy</h2>
-<p>Analyzing philosophical foundations of law, justice, and legal reasoning. The work examines how normative theories inform legal practice and institutional design.</p>
+<!-- ===== Philosophy of Law ===== -->
+<h2 id="legal" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Philosophy of Law</h2>
+<p>A further area of my research lies in philosophy of law, where I pursue both traditional and contemporary questions. In the past, I have worked on the intersection of philosophy of criminal law and philosophy of action. I am currently developing new work on AI governance, exploring how the rise of increasingly agentic artificial systems reshapes questions of risk, responsibility, and regulation.</p>
 
 <figure class="figure-torn">
   <img src="assets/law.png" alt="Legal Philosophy visual">
 </figure>
 
 
-<div class="subhead">Paper 1 — Normativity and Legal Reasons</div>
-<p class="subdesc">Develops a unified account of practical reasons that links legal obligation with moral normativity without collapsing the two.</p>
+<div class="subhead">9. A paper on omissions (title redacted for peer review)</div>
+<p class="subdesc">The criminalization of omissions is controversial for several reasons. One concern is that omissions liability appears to violate the act requirement. Another involves the ambiguous causal status of omissions, especially in result crimes. I argue that a distinctive kind of omissions—what I call “refrainings”—are best understood not as mere failures to act but as actions that actively bring about harm. Recognizing refrainings as a distinct category of omission has significant implications for the act requirement and for the justification of criminal liability in so-called “Bad Samaritan” cases.</p>
 
-<div class="subhead">Paper 2 — Responsibility, Agency, and Evidence</div>
-<p class="subdesc">Explores agency-sensitive models of responsibility and how evidential standards can reflect underlying normative commitments.</p>
+<div class="subhead">10. “From Autonomy to Function: Rethinking Intention for AI Agents”</div>
+<p class="subdesc">This paper argues that the legal concept of intention must be partially broadened to address harms caused by increasingly agentic AI systems. While human intention is grounded in autonomy and reflective self-legislation, the law can recognize a functional analogue in machines, rooted in their goal-directed architectures. Such a reconceptualization closes doctrinal gaps in criminal and tort law while still preserving the distinction between genuine autonomous agency and merely functional, machine-based agency.</p>
 
 <div class="divider"></div>
