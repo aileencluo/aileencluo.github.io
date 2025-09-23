@@ -16,16 +16,16 @@ title: Research
 <p class="img-credit">Immanuel Kant (1724-1804)</p>
 
 
-<div class="subhead">1 — “Sense and Sensibility: Kant on Berkeley on Spatial Representation” (Markus Herz Prize nominee)</div>
+<div class="subhead">1. “Sense and Sensibility: Kant on Berkeley on Spatial Representation” (Markus Herz Prize nominee)</div>
 <p class="subdesc">This paper traces Kant’s theory of space through a critical engagement with Berkeley’s semiotic theory of vision. I argue that Kant transforms Berkeley’s heterogeneity thesis—that sight and touch yield irreducibly distinct contents—into a cornerstone of his own account. On this reading, spatial representation is not a “fleeting shadow” of the divine mind but an <em>a priori</em>, multisensory intuition that secures the very distinction between reality and illusion.</p>
 
-<div class="subhead">2 — “The Making of Time: Kant on Locke on Inner Sense”</div>
+<div class="subhead">2. “The Making of Time: Kant on Locke on Inner Sense”</div>
 <p class="subdesc">This paper reconstructs Kant’s theory of time through a critical engagement with Locke’s account of inner sense. I argue that Kant repurposes Locke’s juridical notion of “original acquisition” to describe not the appropriation of external objects but the acquisition of the very forms of intuition. On this reading, inner sense is not merely a passive mirror of mental operations but emerges only through its reciprocal relation to outer sense.</p>
 
-<div class="subhead">3 — “Kant’s Acquisition Theory of the Categories”</div>
+<div class="subhead">3. “Kant’s Acquisition Theory of the Categories”</div>
 <p class="subdesc">This paper challenges the “preformation” theory of the categories, which holds that the categories are fixed and determinate because they stem from preformed dispositions or “germs” within the mind. Instead, I propose that the categories are acquired through the justified use of our own understanding, in accordance with what I identify as an epistemic principle of cognition. This interpretation illuminates Kant’s anti-nativist stance, clarifies his crucial break from the rationalist tradition, and highlights the crucial role of epistemic agency in human cognition.</p>
 
-<div class="subhead">4 — “Kant on Epistemic Luck” (in progress)</div>
+<div class="subhead">4. “Kant on Epistemic Luck” (in progress)</div>
 <p class="subdesc">This paper addresses the relatively neglected problem of epistemic luck in Kant, arguing that it poses a deeper challenge than moral luck because truth, unlike moral worth, depends on an external success condition beyond the agent’s control. I propose that for Kant, epistemic luck exposes the inevitable gap between the empirical standpoint of contingency and the noumenal standpoint of rational agency. Yet this gap is precisely where epistemic responsibility, critique, and self-correction could arise.</p>
 
 
