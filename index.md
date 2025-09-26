@@ -18,7 +18,7 @@ title: Home
   
   <!-- 右边：文字 -->
   <div class="about-right">
-    <p>Hello! I’m Aileen. I am a PhD candidate in Philosophy at Stanford University, where I also pursue a PhD minor in Psychology. My research focuses on Kant’s theoretical philosophy, especially where it intersects with epistemology and the philosophy of psychology. I am equally drawn to the history and philosophy of psychology, as well as contemporary debates in cognitive science and artificial intelligence. Before turning to philosophy, I trained in law (LLB, LLM, and a practicing certificate in Hong Kong). Outside of academic work, I enjoy photography, film, rock music, and travel—but above all, I cherish time spent with my friends, my partner, and our cat, Galileo.</p>
+    <p>Hello! I’m Aileen. I am a PhD candidate in Philosophy at Stanford University, where I also pursue a PhD minor in Psychology. My research focuses on Kant’s theoretical philosophy, especially where it intersects with epistemology and the philosophy of psychology. I am equally drawn to the history and philosophy of psychology, as well as contemporary debates in cognitive science and artificial intelligence. Before turning to philosophy, I trained in law (LLB, LLM, and a practicing certificate in Hong Kong). Outside of academic work, I enjoy photography, film, rock music, and travel—but above all, I cherish time spent with my friends, my partner and our cat, Galileo.</p>
 
     
   </div>
