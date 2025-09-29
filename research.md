@@ -8,7 +8,7 @@ title: Research
 
 <!-- ===== Kant ===== -->
 <h2 id="kant" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Kant</h2>
-<p>My core historical research area is in Kant’s theoretical philosophy, especially when it intersects with epistemology and philosophy of psychology. Current projects include the following papers that are either based on or extend from my dissertation work.</p>
+<p>My core research area is in Kant’s theoretical philosophy, especially when it intersects with epistemology and philosophy of psychology. Current projects include the following papers that are either based on or extend from my dissertation work.</p>
 
 <figure class="figure-torn">
   <img src="assets/kant.png" alt="Kant research visual">
@@ -26,7 +26,7 @@ title: Research
 <p class="subdesc">This paper challenges the “preformation” theory of the categories, which holds that the categories are fixed and determinate because they stem from preformed dispositions or “germs” within the mind. Instead, I propose that the categories are acquired through the justified use of our own understanding, in accordance with what I identify as an epistemic principle of cognition. This interpretation illuminates Kant’s anti-nativist stance, clarifies his crucial break from the rationalist tradition, and highlights the crucial role of epistemic agency in human cognition.</p>
 
 <div class="subhead">4. “Kant on Epistemic Luck” (in progress)</div>
-<p class="subdesc">This paper addresses the relatively neglected problem of epistemic luck in Kant, arguing that it poses a deeper challenge than moral luck because truth, unlike moral worth, depends on an external success condition beyond the agent’s control. I propose that for Kant, epistemic luck exposes the inevitable gap between the empirical standpoint of contingency and the noumenal standpoint of rational agency. Yet this gap is precisely where epistemic responsibility, critique, and self-correction could arise.</p>
+<p class="subdesc">This paper addresses the relatively neglected problem of epistemic luck in Kant, arguing that it poses a deeper challenge than moral luck because truth, unlike moral worth, depends on an external success condition beyond the agent’s control. I propose that for Kant, epistemic luck exposes an inevitable gap between the empirical standpoint of contingency and the noumenal standpoint of rational agency. Yet this gap is precisely where epistemic responsibility, critique, and self-correction could arise.</p>
 
 
 <!-- ===== History and Philosophy of Psychology ===== -->
@@ -44,12 +44,12 @@ title: Research
 <p class="subdesc">In <em>Some Thoughts Concerning Education</em> (1693), Locke insists that learning must be made pleasant, warning that fear, punishment, or rote drills leads to aversion rather than understanding. I propose that Locke treats pleasure and play as the affective ground of cognition. On this reading, Locke offers an early theory of intrinsic motivation in cognitive development that anticipates Piaget’s play-based constructivism.</p>
 
 <div class="subhead">6. “Piaget on the Decentering of Consciousness”</div>
-<p class="subdesc">In <em>The Child’s Conception of the World</em> (1929) and <em>The Child’s Conception of Physical Causality</em> (1930), Piaget describes children as initially “egocentric,” unable to distinguish their own perspective from that of others. He argues that decentering—overcoming egocentrism—arises through social interaction and the coordination of perspectives. I propose that this developmental shift parallels Kant’s distinction in the <em>Prolegomena</em> between judgments of perception, which are merely subjective, and judgments of experience, which claim objective validity. On this reading, Piaget offers a developmental analogue to the transition from subjective to objective judgment.</p>
+<p class="subdesc">In <em>The Child’s Conception of the World</em> (1929) and <em>The Child’s Conception of Physical Causality</em> (1930), Piaget describes children as initially “egocentric,” unable to distinguish their own perspective from that of others. He argues that decentering—overcoming egocentrism—arises through social interaction and the coordination of perspectives. I propose that this developmental shift parallels Kant’s distinction in the <em>Prolegomena</em> between judgments of perception, which are merely subjective, and judgments of experience, which claim objective validity. On this reading, Piaget provides a developmental analogue to the very process by which cognition moves from perception to experience.</p>
 
 
 <!-- ===== Philosophy of Cognitive Science ===== -->
 <h2 id="cogsci" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Philosophy of Cognitive Science and AI</h2>
-<p>A third, emerging area of my research engages with contemporary philosophy of cognitive science and AI, focusing on how insights from Kant and other historical figures can illuminate current dates about cognition, learning, and agency. I am currently developing this area along the following themes.</p>
+<p>A third, emerging area of my research engages with contemporary philosophy of cognitive science and AI, focusing on how insights from Kant and other historical figures can illuminate current debates about cognition, learning, and agency. I am currently developing this area along the following themes.</p>
 
 <figure class="figure-torn">
   <img src="assets/cognitive.png" alt="Cognitive Science visual">
