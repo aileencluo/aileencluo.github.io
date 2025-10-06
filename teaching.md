@@ -39,7 +39,7 @@ Mathematical Logic
     <a class="file-link"
        href="{{ '/assets/syllabi/PHIL 24- Theories of Consciousness in Early Modern Philosophy.pdf' | relative_url }}"
        target="_blank" rel="noopener">
-      PHIL 24- Theories of Consciousness in Early Modern Philosophy.pdf
+      PHIL 24.pdf
     </a>
   </li>
 </ul>
