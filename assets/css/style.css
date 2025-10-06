@@ -333,6 +333,24 @@ h2[id] {
 
 
 /* =========================
+   File Download Link (雅致样式)
+   ========================= */
+.file-link {
+  font-family: 'Cormorant Garamond', sans-serif;
+  text-decoration: none;
+  border-bottom: 1px dashed currentColor; /* 虚线下划线，轻微强调 */
+  padding-bottom: 1px;
+  transition: color 0.3s ease;
+}
+
+.file-link:hover {
+  color: var(--accent); /* 悬停时变为主题橙色 */
+}
+
+
+
+
+/* =========================
    Responsive Tweaks
    ========================= */
 @media (max-width: 768px){
