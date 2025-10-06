@@ -33,7 +33,16 @@ Mathematical Logic
 
 <!-- ===== Sample Syllabus ===== -->
 <h2 id="sample syllabus" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Sample Syllabus</h2>
-<p>(To be available soon...)</p>
+<h3 class="subhead" style="margin-top:1.2em;">PHIL 24- Theories of Consciousness in Early Modern Philosophy</h3>
+<ul>
+  <li>
+    <a class="file-link"
+       href="{{ '/assets/syllabi/PHIL 24- Theories of Consciousness in Early Modern Philosophy.pdf' | relative_url }}"
+       target="_blank" rel="noopener">
+      PHIL 24- Theories of Consciousness in Early Modern Philosophy.pdf
+    </a>
+  </li>
+</ul>
 
 
 
