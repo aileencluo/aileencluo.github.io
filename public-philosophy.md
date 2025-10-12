@@ -7,7 +7,7 @@ title: Public Philosophy
 
 <!-- ===== Making History Alive ===== -->
 <h2 id="making-history-alive" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Making History Alive</h2>
-<p>
+<p class="center-paragraph">
   “Above all, by slow degrees the thoughts of our forefathers, their common thoughts about common things, will have become thinkable once more.” - F. W. Maitland (1850-1906)
 </p>
 
