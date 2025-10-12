@@ -348,6 +348,20 @@ h2[id] {
 }
 
 
+/* =========================
+   Centered Intro Paragraph (Public Philosophy)
+   ========================= */
+.center-paragraph {
+  max-width: 680px;          /* 限制宽度，不让文字太长 */
+  margin: 0 auto 1.8em;      /* 水平居中 + 与下方元素留距离 */
+  text-align: center;        /* 居中对齐 */
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.1em;
+  line-height: 1.9;
+  color: var(--ink);
+}
+
+
 
 
 /* =========================
