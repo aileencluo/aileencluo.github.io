@@ -19,7 +19,7 @@ title: Public Philosophy
 -->
 
 <div class="subhead">Mission Statement</div>
-<p class="subdesc">Making History Alive is an ongoing public philosophy initiative that brings the history of philosophy into dialogue with contemporary issues in science, technology, and society. Its aim is to make philosophy’s past a living resource for understanding the present, through short essays, interviews, collaborations, and multimedia features that show how classic ideas continue to shape our intellectual and moral world.</p>
+<p class="subdesc"><em>Making History Alive</em> is an ongoing public philosophy initiative that brings the history of philosophy into dialogue with contemporary issues in science, technology, and society. Its aim is to make philosophy’s past a living resource for understanding the present, through short essays, interviews, collaborations, and multimedia features that show how classic ideas continue to shape our intellectual and moral world.</p>
 
 <div class="subhead">Forthcoming Pieces</div>
 <p class="subdesc">Modular activities that translate seminar insights into public-facing workshops and after-school programs.</p>
