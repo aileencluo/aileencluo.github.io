@@ -22,10 +22,12 @@ title: Public Philosophy
 <p class="subdesc"><em>Making History Alive</em> is an ongoing public philosophy initiative that brings the history of philosophy into dialogue with contemporary issues in science, technology, and society. Its aim is to make philosophy’s past a living resource for understanding the present, through short essays, interviews, collaborations, and multimedia features that show how classic ideas continue to shape our intellectual and moral world.</p>
 
 <div class="subhead">Forthcoming Pieces</div>
-<p class="subdesc">Modular activities that translate seminar insights into public-facing workshops and after-school programs.</p>
+<p class="subdesc">“The Moral Sense Revisited: From Hume to Neuroscience”</p>
 
 <div class="subhead">Resources</div>
-<p class="subdesc">Modular activities that translate seminar insights into public-facing workshops and after-school programs.</p>
+<p class="subdesc">Modular activities that translate seminar insights into public-facing workshops and after-school programs.<br>
+Before anyone spoke of brain scans or mirror neurons, David Hume had a radical thought: morality begins in feeling. We don’t discover right and wrong by reasoning from rules, but by sensing the happiness or suffering of others and responding with sympathy. Three centuries later, neuroscience is catching up. Our moral life may indeed arise from the circuitry of emotion. Hume’s insight reminds us that ethics is not cold logic; it’s what happens when a thinking creature learns to feel.
+</p>
 
 <!-- ===== Topic Two (placeholder) ===== --
 <h2 id="topic-two" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Topic Two</h2>
