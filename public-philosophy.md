@@ -22,11 +22,11 @@ title: Public Philosophy
 <p class="subdesc"><em>Making History Alive</em> is an ongoing public philosophy initiative that brings the history of philosophy into dialogue with contemporary issues in science, technology, and society. Its aim is to make philosophy’s past a living resource for understanding the present, through short essays, interviews, collaborations, and multimedia features that show how classic ideas continue to shape our intellectual and moral world.</p>
 
 <div class="subhead">Forthcoming Pieces</div>
-<p class="subdesc">“The Moral Sense Revisited: From Hume to Neuroscience”<br>
+<p class="subdesc"><em>“The Moral Sense Revisited: From Hume to Neuroscience”</em><br>
 Before anyone spoke of brain scans or mirror neurons, David Hume had a radical thought: morality begins in feeling. We don’t discover right and wrong by reasoning from rules, but by sensing the happiness or suffering of others and responding with sympathy. Three centuries later, neuroscience is catching up. Our moral life may indeed arise from the circuitry of emotion. Hume’s insight reminds us that ethics is not cold logic; it’s what happens when a thinking creature learns to feel.
 </p>
 
-<p class="subdesc">“Locke and the Ethics of Data Ownership”<br>
+<p class="subdesc"><em>“Locke and the Ethics of Data Ownership”</em><br>
 When John Locke wrote that we own what we “mix our labor with”, he was thinking of farming land, not training algorithms. Yet his idea still echoes in the digital age. Every click, post, and search leaves a trace of ourselves; tiny acts of labor that feed vast systems of data. But if our data carries our effort, does it also carry our right to ownership? Revisiting Locke’s theory of property invites us to ask what it means to possess something made from our own lives, and whether selfhood has become the most valuable—or perhaps the most vulnerable—form of capital.
 </p>
 
