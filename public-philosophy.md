@@ -27,7 +27,7 @@ Before anyone spoke of brain scans or mirror neurons, David Hume had a radical t
 </p>
 
 <p class="subdesc"><em>“Locke and the Ethics of Data Ownership”</em><br>
-When John Locke wrote that we own what we “mix our labor with”, he was thinking of farming land, not training algorithms. Yet his idea still echoes in the digital age. Every click, post, and search leaves a trace of ourselves; tiny acts of labor that feed vast systems of data. But if our data carries our effort, does it also carry our right to ownership? Revisiting Locke’s theory of property invites us to ask what it means to possess something made from our own lives, and whether selfhood has become the most valuable—or perhaps the most vulnerable—form of capital.
+When John Locke wrote that we own what we “mix our labor with”, he was thinking of farming land, not training algorithms. Yet his idea still echoes in the digital age. Every click, post, and search leaves a trace of ourselves. But if our data carries our effort, does it also carry our right to ownership? Revisiting Locke’s theory of property invites us to ask what it means to possess something made from our own lives, and whether selfhood has become the most valuable—or indeed the most vulnerable—form of capital.
 </p>
 
 <div class="subhead">Resources</div>
