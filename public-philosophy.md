@@ -48,7 +48,7 @@ When John Locke wrote that we own what we “mix our labor with”, he was think
   </li>
 </ul>
 
-<p</p>
+
 
 <p class="resource-category"><em>General Philosophy</em></p>
 
