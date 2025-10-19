@@ -46,7 +46,9 @@ When John Locke wrote that we own what we “mix our labor with”, he was think
   <li>
     <a href="https://www.bbc.co.uk/programmes/p01f0vzr" target="_blank" rel="noopener">In Our Time</a> — Philosophy (BBC Radio 4) : Melvyn Bragg and guests discuss key figures and moments in the history of philosophy, making complex ideas vivid through dialogue and historical storytelling.
   </li>
-  
+</ul>
+
+<p</p>
 
 <p class="subdesc"><em>General Philosophy</em></p>
 
