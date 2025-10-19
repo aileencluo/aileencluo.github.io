@@ -72,7 +72,7 @@ title: Research
 </figure>
 
 
-<div class="subhead">9. A paper on omissions (title redacted for peer review)</div>
+<div class="subhead">9. A paper on omissions (R&R at <em>Criminal Law and Philosophy</em>)</div>
 <p class="subdesc">The criminalization of omissions is controversial for several reasons. One concern is that omissions liability appears to violate the act requirement. Another involves the ambiguous causal status of omissions, especially in result crimes. I argue that a distinctive kind of omissions—what I call “refrainings”—are best understood not as mere failures to act but as <em>actions</em> that actively bring about harm. Recognizing refrainings as a distinct category of omission has significant implications for the act requirement and for the justification of criminal liability in so-called “Bad Samaritan” cases.</p>
 
 <div class="subhead">10. “From Autonomy to Function: Rethinking Intention for AI Agents”</div>
