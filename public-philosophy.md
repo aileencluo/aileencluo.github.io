@@ -34,27 +34,34 @@ When John Locke wrote that we own what we “mix our labor with”, he was think
 <!-- ===== Resources ===== -->
 <div class="subhead">Resources</div>
 
+<p class="subdesc"><em>History of Philosophy</em></p>
+
 <ul class="resource-list">
   <li>
-    <a href="https://historyofphilosophy.net" target="_blank" rel="noopener">History of Philosophy Without Any Gaps</a> — Peter Adamson’s monumental podcast and website narrating the story of philosophy “without skipping anyone,” from the Presocratics to contemporary thinkers, in a lively and approachable style.
+    <a href="https://historyofphilosophy.net" target="_blank" rel="noopener">History of Philosophy Without Any Gaps</a> : Peter Adamson’s monumental podcast and website narrating the story of philosophy “without skipping anyone,” from the Presocratics to contemporary thinkers, in a lively and approachable style.
   </li>
   <li>
-    <a href="https://artiallyexaminedlife.com" target="_blank" rel="noopener">The Partially Examined Life</a> — A conversational podcast where former philosophy students revisit great thinkers and texts from Plato to Kierkegaard to Nietzsche with humor, insight, and accessibility.
+    <a href="https://artiallyexaminedlife.com" target="_blank" rel="noopener">The Partially Examined Life</a> : A conversational podcast where former philosophy students revisit great thinkers and texts from Plato to Kierkegaard to Nietzsche with humor, insight, and accessibility.
   </li>
   <li>
-    <a href="https://www.bbc.co.uk/programmes/p01f0vzr" target="_blank" rel="noopener">In Our Time</a> — Philosophy (BBC Radio 4) – Melvyn Bragg and guests discuss key figures and moments in the history of philosophy, making complex ideas vivid through dialogue and historical storytelling.
+    <a href="https://www.bbc.co.uk/programmes/p01f0vzr" target="_blank" rel="noopener">In Our Time</a> — Philosophy (BBC Radio 4) : Melvyn Bragg and guests discuss key figures and moments in the history of philosophy, making complex ideas vivid through dialogue and historical storytelling.
   </li>
   
-  <!-- 继续添加：
+
+<p class="subdesc"><em>General Philosophy</em></p>
+
+<ul class="resource-list">
   <li>
-    <a href="https://hiphination.org" target="_blank" rel="noopener">Hi-Phi Nation</a> — XXXXX
+    <a href="https://philosophynow.org" target="_blank" rel="noopener">Philosophy Now</a> : An accessible magazine that explores philosophical ideas in everyday life, featuring articles, interviews, and thought experiments for a broad audience.
   </li>
-  <li><a href="https://链接地址" target="_blank" rel="noopener">资源名称</a> — XXXXX</li>
-  -->
+  <li><a href="https://aeon.co" target="_blank" rel="noopener">Aeon</a> : A digital magazine publishing beautifully written essays on philosophy, science, and culture, often connecting classic ideas to contemporary ethical and social questions.</li>
+  <li><a href="https://thepointmag.com" target="_blank" rel="noopener">The Point Magazine</a> : A Chicago-based magazine of philosophical writing that bridges ideas and public life, featuring essays, symposiums, and dialogues that connect the history of thought to contemporary experience.</li>
+  <li><a href="https://philosophybites.com" target="_blank" rel="noopener">Philosophy Bites</a> : A long-running podcast by Nigel Warburton and David Edmonds featuring short, lively interviews with leading philosophers on big questions.</li>
+  
 </ul>
 
 
-</p>
+
 
 <!-- ===== Topic Two (placeholder) ===== --
 <h2 id="topic-two" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Topic Two</h2>
