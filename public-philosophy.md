@@ -48,7 +48,7 @@ title: Public Philosophy
   </li>
 </ul>
 
-
+<p style="margin: 1.5em 0;"></p>
 
 <p class="resource-category"><em>General Philosophy</em></p>
 
