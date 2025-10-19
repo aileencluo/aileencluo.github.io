@@ -34,7 +34,7 @@ When John Locke wrote that we own what we “mix our labor with”, he was think
 <!-- ===== Resources ===== -->
 <div class="subhead">Resources</div>
 
-<p class="subdesc"><em>History of Philosophy</em></p>
+<p class="resource-category"><em>History of Philosophy</em></p>
 
 <ul class="resource-list">
   <li>
@@ -50,7 +50,7 @@ When John Locke wrote that we own what we “mix our labor with”, he was think
 
 <p</p>
 
-<p class="subdesc"><em>General Philosophy</em></p>
+<p class="resource-category"><em>General Philosophy</em></p>
 
 <ul class="resource-list">
   <li>
