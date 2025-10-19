@@ -44,7 +44,7 @@ title: Public Philosophy
     <a href="https://artiallyexaminedlife.com" target="_blank" rel="noopener">The Partially Examined Life</a> : A conversational podcast where former philosophy students revisit great thinkers and texts from Plato to Kierkegaard to Nietzsche with humor, insight, and accessibility.
   </li>
   <li>
-    <a href="https://www.bbc.co.uk/programmes/p01f0vzr" target="_blank" rel="noopener">In Our Time</a> — Philosophy (BBC Radio 4) : Melvyn Bragg and guests discuss key figures and moments in the history of philosophy, making complex ideas vivid through dialogue and historical storytelling.
+    <a href="https://www.bbc.co.uk/programmes/p01f0vzr" target="_blank" rel="noopener">In Our Time: Philosophy (BBC Radio 4)</a> : Melvyn Bragg and guests discuss key figures and moments in the history of philosophy, making complex ideas vivid through dialogue and historical storytelling.
   </li>
 </ul>
 
