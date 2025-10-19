@@ -30,8 +30,29 @@ Before anyone spoke of brain scans or mirror neurons, David Hume had a radical t
 When John Locke wrote that we own what we “mix our labor with”, he was thinking of farming land, not training algorithms. Yet his idea still echoes in the digital age. Every click, post, and search leaves a trace of ourselves. But if our data carries our effort, does it also carry our right to ownership? Revisiting Locke’s theory of property invites us to ask what it means to possess something made from our own lives, and whether selfhood has become the most valuable—or indeed the most vulnerable—form of capital.
 </p>
 
+
+<!-- ===== Resources ===== -->
 <div class="subhead">Resources</div>
-<p class="subdesc">Modular activities that translate seminar insights into public-facing workshops and after-school programs.
+
+<ul class="resource-list">
+  <li>
+    <a href="https://historyofphilosophy.net" target="_blank" rel="noopener">History of Philosophy Without Any Gaps</a> — Peter Adamson’s monumental podcast and website narrating the story of philosophy “without skipping anyone,” from the Presocratics to contemporary thinkers, in a lively and approachable style.
+  </li>
+  <li>
+    <a href="https://artiallyexaminedlife.com" target="_blank" rel="noopener">The Partially Examined Life</a> — A conversational podcast where former philosophy students revisit great thinkers and texts from Plato to Kierkegaard to Nietzsche with humor, insight, and accessibility.
+  </li>
+  <li>
+    <a href="https://www.bbc.co.uk/programmes/p01f0vzr" target="_blank" rel="noopener">In Our Time</a> — Philosophy (BBC Radio 4) – Melvyn Bragg and guests discuss key figures and moments in the history of philosophy, making complex ideas vivid through dialogue and historical storytelling.
+  </li>
+  
+  <!-- 继续添加：
+  <li>
+    <a href="https://hiphination.org" target="_blank" rel="noopener">Hi-Phi Nation</a> — XXXXX
+  </li>
+  <li><a href="https://链接地址" target="_blank" rel="noopener">资源名称</a> — XXXXX</li>
+  -->
+</ul>
+
 
 </p>
 
