@@ -21,6 +21,10 @@ title: Public Philosophy
 <div class="subhead">Mission Statement</div>
 <p class="subdesc"><em>Making History Alive</em> is an ongoing public philosophy initiative that brings the history of philosophy into dialogue with contemporary issues in science, technology, and society. Its aim is to make philosophy’s past a living resource for understanding the present, through short essays, interviews, collaborations, and multimedia features that show how classic ideas continue to shape our intellectual and moral world.</p>
 
+<div class="subhead">Ask a Philosopher!</div>
+<p class="subdesc">Have a question about life, ethics, or society? What would Aristotle say about ambition? Or Mary Wollstonecraft about online fame? Ask a Philosopher! turns your question into a miniature dialogue with the great minds of the past. It’s simple: choose a theme—from ethics and politics to art or technology—pick a philosopher whose perspective you’d like to hear, and then share your question. Selected questions will receive individual responses that connect your curiosity with the insights of thinkers from Plato to Kant to Confucius. The aim isn’t to find final answers, but to see today’s challenges through timeless eyes.
+Your conversation starts here.</p>
+
 <div class="subhead">Forthcoming Pieces</div>
 <p class="resource-category"><em>“The Moral Sense Revisited: From Hume to Neuroscience”</em></p>
 <p class="subdesc">Before anyone spoke of brain scans or mirror neurons, David Hume had a radical thought: morality begins in feeling. We don’t discover right and wrong by reasoning from rules, but by sensing the happiness or suffering of others and responding with sympathy. Three centuries later, neuroscience is catching up. Our moral life may indeed arise from the circuitry of emotion. Hume’s insight reminds us that ethics is not cold logic; it’s what happens when a thinking creature learns to feel.
