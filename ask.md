@@ -14,7 +14,7 @@ title: Ask a Philosopher
 
 <form id="ask-form" class="ask-form">
   <!-- 主题下拉 -->
-  <label for="theme">List of themes</label>
+  <label for="theme">Choose a theme</label>
   <select id="theme" name="theme" required>
     <option value="" disabled selected>— Select a theme —</option>
     <option>Ethics</option>
@@ -33,7 +33,7 @@ title: Ask a Philosopher
   </select>
 
   <!-- 哲学家下拉 -->
-  <label for="philosopher">List of philosophers</label>
+  <label for="philosopher">Pick a philosopher</label>
   <select id="philosopher" name="philosopher" required>
     <option value="" disabled selected>— Select a philosopher —</option>
     <option>Plato</option>
@@ -58,7 +58,7 @@ title: Ask a Philosopher
   </select>
 
   <!-- 用户问题 -->
-  <label for="question">Your question</label>
+  <label for="question">Share your question</label>
   <textarea id="question" name="question" rows="6" placeholder="Write your question here…" required></textarea>
 
   <button type="submit" class="ask-submit">Open Public Thread</button>
