@@ -134,7 +134,7 @@ title: Ask a Philosopher
         });
         if (res.ok) {
           form.reset();
-          showStatus('✅ Submitted!', true);
+          showStatus('✅ Submitted! Thank you for your participation :)', true);
         } else {
           showStatus('⚠️ Submission failed. Please try again or email me directly.', false);
         }
