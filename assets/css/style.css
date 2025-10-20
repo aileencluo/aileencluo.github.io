@@ -457,6 +457,31 @@ h2[id] {
   margin-top: 10px;
 }
 
+/* =========================
+   Ask Button (Public Philosophy)
+   ========================= */
+.ask-button {
+  display: inline-block;
+  margin-top: 1.2em;
+  padding: 10px 18px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 1em;
+  color: var(--brand);
+  border: 2px solid var(--brand);
+  border-radius: 6px;
+  background: #fff;
+  text-decoration: none;
+  transition: all 0.25s ease;
+}
+
+.ask-button:hover {
+  background: var(--brand);
+  color: #fff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  text-decoration: none;
+}
+
 
 
 
@@ -507,6 +532,16 @@ h2[id] {
   }
   .trivia-img {
     max-width: 90%;   /* 保持和正文宽度一致 */
+  }
+}
+
+/* 移动端居中按钮 */
+@media (max-width: 768px) {
+  .ask-button {
+    display: block;          /* 让按钮独占一行 */
+    margin: 1.5em auto;      /* 上下间距 + 自动水平居中 */
+    text-align: center;
+    width: fit-content;      /* 只占自身宽度 */
   }
 }
 
