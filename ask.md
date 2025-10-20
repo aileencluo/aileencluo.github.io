@@ -8,29 +8,29 @@ title: Ask a Philosopher
 <h2 class="section-title">Ask a Philosopher</h2>
 
 <p class="center-paragraph">
-  Choose a theme, pick a philosopher, and share your question. Your submission opens a public thread
-  (GitHub Issue) where I can reply and you can follow up.
+  Choose a theme, pick a philosopher, leave your email, and ask your question.
+  I’ll reply to you by email.
 </p>
 
-<form id="ask-form" class="ask-form" action="https://formspree.io/f/mqayjnrj" method="POST">
+<form id="ask-form" class="ask-form" action="https://formspree.io/f/mqayjnrj" method="POST" novalidate>
 
   <!-- 主题下拉 -->
   <label for="theme">Choose a theme</label>
   <select id="theme" name="theme" required>
     <option value="" disabled selected>— Select a theme —</option>
-    <option>Ethics</option>
-    <option>Politics</option>
-    <option>Knowledge</option>
     <option>Art</option>
-    <option>Science</option>
-    <option>Technology</option>
     <option>Education</option>
+    <option>Ethics</option>
     <option>Gender</option>
+    <option>Knowledge</option>
     <option>Law</option>
-    <option>Society</option>
-    <option>Religion &amp; Faith</option>
-    <option>Mind &amp; Self</option>
     <option>Meaning &amp; Existence</option>
+    <option>Mind &amp; Self</option>
+    <option>Politics</option>
+    <option>Religion &amp; Faith</option>
+    <option>Science</option>
+    <option>Society</option>
+    <option>Technology</option>
   </select>
 
   <!-- 哲学家下拉 -->
@@ -58,61 +58,76 @@ title: Ask a Philosopher
     <option>Anyone — surprise me!</option>
   </select>
 
+  <!-- Email -->
+  <label for="email">Your email</label>
+  <input id="email" name="email" type="email" placeholder="you@example.com" required>
+
   <!-- 用户问题 -->
   <label for="question">Share your question</label>
   <textarea id="question" name="question" rows="6" placeholder="Write your question here…" required></textarea>
 
-  <button type="submit" class="ask-submit">Open Public Thread</button>
+   <!-- 蜜罐反垃圾（不要改 name 值） -->
+  <input type="text" name="_gotcha" style="display:none">
+
+  <!-- 成功后停留本页（由 JS 控制），这里留空即可 -->
+  <input type="hidden" name="_redirect" value="">
+
+  <button type="submit" class="ask-submit">Send</button>
   <p class="ask-hint">
-    Prefer email? <a href="mailto:yourname@example.com?subject=Ask%20a%20Philosopher&body=Theme:%20%0APhilosopher:%20%0AQuestion:%20"
-    class="inline-link">Email me your question</a>.
+    I’ll reply to your email. Your address is used only for this conversation.
   </p>
 
-
-  <p class="ask-hint">
-    Submitting will open a new tab to create a public thread on GitHub. You can subscribe to updates and I will reply there.
-  </p>
+ <!-- 提交状态提示 -->
+  <p id="ask-status" style="display:none; margin-top:10px;"></p>
 </form>
+
+ 
 
 <div class="divider"></div>
 
 <script>
-  (function () {
-    // TODO: 把下面的用户名换成你的 GitHub 用户名
-    const GITHUB_USER = 'aileencluo'; // ←← 修改这里（如与你用户名不同）
-    const REPO = 'aileencluo.github.io'; // 通常就是你的 Pages 仓库名
-
+  (function(){
     const form = document.getElementById('ask-form');
-    form.addEventListener('submit', function (e) {
-      e.preventDefault();
+    const status = document.getElementById('ask-status');
 
+    function showStatus(msg, ok){
+      status.textContent = msg;
+      status.style.display = 'block';
+      status.style.color = ok ? '#1B3A57' : '#D95F1C';
+    }
+
+    form.addEventListener('submit', async function(e){
+      e.preventDefault();
+      status.style.display = 'none';
+
+      // 前端校验（避免空提交）
       const theme = document.getElementById('theme').value;
       const philosopher = document.getElementById('philosopher').value;
-      const question = document.getElementById('question').value;
+      const email = document.getElementById('email').value.trim();
+      const question = document.getElementById('question').value.trim();
 
-      // Issue 标题与正文（可按需调整格式）
-      const title = `[Ask a Philosopher] ${theme} — ${philosopher}`;
-      const body =
-`**Theme:** ${theme}
-**Philosopher:** ${philosopher}
+      if(!theme || !philosopher || !email || !question){
+        showStatus('⚠️ Please complete all fields.', false);
+        return;
+      }
 
-**Question:**
-${question}
-
----
-
-*Submitted via website: https://${GITHUB_USER}.github.io/*`;
-
-      // 可选：给 Issue 加标签（如果仓库设置了对应标签）
-      const labels = encodeURIComponent('Ask a Philosopher');
-
-      const url =
-        `https://github.com/${GITHUB_USER}/${REPO}/issues/new?` +
-        `title=${encodeURIComponent(title)}` +
-        `&body=${encodeURIComponent(body)}` +
-        `&labels=${labels}`;
-
-      window.open(url, '_blank', 'noopener'); // 新标签打开 GitHub 新 issue 页面
+      // 发送
+      const data = new FormData(form);
+      try {
+        const res = await fetch(form.action, {
+          method: 'POST',
+          headers: { 'Accept': 'application/json' },
+          body: data
+        });
+        if (res.ok) {
+          form.reset();
+          showStatus('✅ Submitted! Please check your email for my reply.', true);
+        } else {
+          showStatus('⚠️ Submission failed. Please try again or email me directly.', false);
+        }
+      } catch (err) {
+        showStatus('⚠️ Network error. Please try again later.', false);
+      }
     });
   })();
 </script>
