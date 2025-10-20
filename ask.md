@@ -7,10 +7,7 @@ title: Ask a Philosopher
 
 <h2 class="section-title">Ask a Philosopher</h2>
 
-<p class="center-paragraph">
-  Choose a theme, pick a philosopher, leave your email, and ask your question.
-  I’ll reply to you by email.
-</p>
+
 
 <form id="ask-form" class="ask-form" action="https://formspree.io/f/mqayjnrj" method="POST" novalidate>
 
