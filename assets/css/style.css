@@ -462,14 +462,14 @@ h2[id] {
    ========================= */
 .ask-button {
   display: inline-block;
-  margin-top: 1.2em;
-  padding: 10px 18px;
-  font-family: 'Inter', sans-serif;
-  font-weight: 600;
-  font-size: 1em;
+  margin-top: 1em;
+  padding: 6px 12px;
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-weight: 500;
+  font-size: 0.95em;
   color: var(--brand);
-  border: 2px solid var(--brand);
-  border-radius: 6px;
+  border: 1.5px solid var(--brand);
+  border-radius: 5px;
   background: #fff;
   text-decoration: none;
   transition: all 0.25s ease;
@@ -478,7 +478,7 @@ h2[id] {
 .ask-button:hover {
   background: var(--brand);
   color: #fff;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
   text-decoration: none;
 }
 
@@ -539,9 +539,11 @@ h2[id] {
 @media (max-width: 768px) {
   .ask-button {
     display: block;          /* 让按钮独占一行 */
-    margin: 1.5em auto;      /* 上下间距 + 自动水平居中 */
+    margin: 1.2em auto;      /* 上下间距 + 自动水平居中 */
     text-align: center;
     width: fit-content;      /* 只占自身宽度 */
+    font-size: 1em;          /* 稍放大一点方便触控，但不夸张 */
+    padding: 8px 14px;
   }
 }
 
