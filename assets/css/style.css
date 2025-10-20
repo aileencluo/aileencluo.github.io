@@ -484,6 +484,31 @@ h2[id] {
   text-decoration: none;
 }
 
+/* Ask – consent radios */
+.choice-group{
+  margin: 14px 0 6px;
+  border: 0;
+  padding: 0;
+}
+.choice-group legend{
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: .95em;
+  color: var(--ink-2);
+  margin-bottom: 8px;
+}
+.choice{
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-right: 16px;
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 1em;
+}
+.choice input[type="radio"]{
+  transform: translateY(1px);
+}
+
+
 
 
 /* =========================
