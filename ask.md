@@ -58,13 +58,13 @@ title: Ask a Philosopher
     <option>Anyone — surprise me!</option>
   </select>
 
-  <!-- Email -->
-  <label for="email">Your email</label>
-  <input id="email" name="email" type="email" placeholder="you@example.com" required>
-
   <!-- 用户问题 -->
   <label for="question">Share your question</label>
   <textarea id="question" name="question" rows="6" placeholder="Write your question here…" required></textarea>
+
+   <!-- Email -->
+  <label for="email">Please leave your email address below so I can reply to your question directly. Your address is used only for this conversation.</label>
+  <input id="email" name="email" type="email" placeholder="you@example.com" required>
 
    <!-- 蜜罐反垃圾（不要改 name 值） -->
   <input type="text" name="_gotcha" style="display:none">
@@ -73,9 +73,7 @@ title: Ask a Philosopher
   <input type="hidden" name="_redirect" value="">
 
   <button type="submit" class="ask-submit">Send</button>
-  <p class="ask-hint">
-    I’ll reply to your email. Your address is used only for this conversation.
-  </p>
+  
 
  <!-- 提交状态提示 -->
   <p id="ask-status" style="display:none; margin-top:10px;"></p>
@@ -121,7 +119,7 @@ title: Ask a Philosopher
         });
         if (res.ok) {
           form.reset();
-          showStatus('✅ Submitted! Please check your email for my reply.', true);
+          showStatus('✅ Submitted!', true);
         } else {
           showStatus('⚠️ Submission failed. Please try again or email me directly.', false);
         }
