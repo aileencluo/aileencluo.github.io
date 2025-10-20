@@ -395,10 +395,11 @@ h2[id] {
    Ask a Philosopher – Form
    ========================= */
 .ask-form{
-  max-width: 720px;
+  max-width: 90%;
+  width: 600px;                   /* 桌面端最大宽度 */
   margin: 0 auto 2.2em;
-  padding: 16px 18px;
-  background: rgba(255,255,255,0.85);
+  padding: 20px;
+  background: rgba(255,255,255,0.9);
   backdrop-filter: blur(6px);
   border: 1px solid rgba(0,0,0,0.06);
   border-radius: 8px;
@@ -408,15 +409,16 @@ h2[id] {
 .ask-form label{
   display:block;
   margin: 12px 0 6px;
-  font-family: 'Inter', sans-serif;
-  font-size: .95em;
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 0.95em;
   color: var(--ink-2);
 }
 
 .ask-form select,
 .ask-form textarea{
   width: 100%;
-  font-family: 'Inter', sans-serif;
+  box-sizing: border-box;          /* 计算边距，避免溢出 */
+  font-family: 'Cormorant Garamond', sans-serif;
   font-size: 1em;
   padding: 10px 12px;
   border: 1px solid rgba(0,0,0,0.12);
@@ -435,20 +437,20 @@ h2[id] {
 .ask-submit{
   margin-top: 14px;
   display:inline-block;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Cormorant Garamond', sans-serif;
   font-weight: 600;
-  padding: 10px 16px;
+  padding: 8px 14px;
   border: 1px solid var(--brand);
   background: #fff;
   color: var(--brand);
-  border-radius: 8px;
+  border-radius: 6px;
   cursor: pointer;
   transition: background .2s ease, color .2s ease, box-shadow .2s ease;
 }
 .ask-submit:hover{
   background: var(--brand);
   color: #fff;
-  box-shadow: 0 6px 14px rgba(0,0,0,.08);
+  box-shadow: 0 4px 10px rgba(0,0,0,.08);
 }
 
 .ask-hint{
@@ -481,8 +483,6 @@ h2[id] {
   box-shadow: 0 3px 8px rgba(0,0,0,0.1);
   text-decoration: none;
 }
-
-
 
 
 
@@ -547,3 +547,10 @@ h2[id] {
   }
 }
 
+/* 手机端适配 */
+@media (max-width: 768px) {
+  .ask-form {
+    width: 94%;                    /* 手机端更窄的留白 */
+    padding: 16px;                 /* 缩小内边距 */
+  }
+}
