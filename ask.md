@@ -37,24 +37,24 @@ title: Ask a Philosopher
   <label for="philosopher">Pick a philosopher</label>
   <select id="philosopher" name="philosopher" required>
     <option value="" disabled selected>— Select a philosopher —</option>
-    <option>Plato</option>
     <option>Aristotle</option>
     <option>Confucius</option>
-    <option>Zhuangzi</option>
-    <option>René Descartes</option>
-    <option>John Locke</option>
+    <option>David Hume</option>
+    <option>Edmund Husserl</option>
+    <option>Friedrich Nietzsche</option>
     <option>George Berkeley</option>
     <option>Gottfried Wilhelm Leibniz</option>
-    <option>David Hume</option>
+    <option>Hannah Arendt</option>
     <option>Immanuel Kant</option>
+    <option>Jean-Paul Sartre</option>
+    <option>John Locke</option>
     <option>Mary Astell</option>
     <option>Mary Wollstonecraft</option>
-    <option>Friedrich Nietzsche</option>
-    <option>Edmund Husserl</option>
-    <option>Jean-Paul Sartre</option>
     <option>Maurice Merleau-Ponty</option>
+    <option>Plato</option>
+    <option>René Descartes</option>
     <option>Simone de Beauvoir</option>
-    <option>Hannah Arendt</option>
+    <option>Zhuangzi</option>
     <option>Anyone — surprise me!</option>
   </select>
 
