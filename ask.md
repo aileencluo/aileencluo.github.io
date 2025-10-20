@@ -62,6 +62,23 @@ title: Ask a Philosopher
   <label for="question">Share your question</label>
   <textarea id="question" name="question" rows="6" placeholder="Write your question here…" required></textarea>
 
+<!-- Share consent -->
+<fieldset class="choice-group">
+  <legend>Would you like your question to be shared on this webpage for educational and discussion purposes?</legend>
+
+  <label class="choice">
+    <input type="radio" name="share_consent" value="Yes" required>
+    <span>Yes</span>
+  </label>
+
+  <label class="choice">
+    <input type="radio" name="share_consent" value="No" required>
+    <span>No</span>
+  </label>
+</fieldset>
+
+
+
    <!-- Email -->
   <label for="email">Please leave your email address below so I can reply to your question directly. Your address is used only for this conversation.</label>
   <input id="email" name="email" type="email" placeholder="you@example.com" required>
@@ -103,9 +120,10 @@ title: Ask a Philosopher
       const philosopher = document.getElementById('philosopher').value;
       const email = document.getElementById('email').value.trim();
       const question = document.getElementById('question').value.trim();
+      const consent = form.querySelector('input[name="share_consent"]:checked');
 
-      if(!theme || !philosopher || !email || !question){
-        showStatus('⚠️ Please complete all fields.', false);
+      if(!theme || !philosopher || !email || !question || !consent){
+        showStatus('⚠️ Please complete all fields, including consent.', false);
         return;
       }
 
