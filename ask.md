@@ -12,7 +12,8 @@ title: Ask a Philosopher
   (GitHub Issue) where I can reply and you can follow up.
 </p>
 
-<form id="ask-form" class="ask-form">
+<form id="ask-form" class="ask-form" action="https://formspree.io/f/mqayjnrj" method="POST">
+
   <!-- 主题下拉 -->
   <label for="theme">Choose a theme</label>
   <select id="theme" name="theme" required>
