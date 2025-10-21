@@ -508,6 +508,33 @@ h2[id] {
   transform: translateY(1px);
 }
 
+/* Unified button style (shared with Ask a Philosopher) */
+.ask-btn {
+  display: inline-block;
+  padding: 8px 18px;
+  font-family: 'Inter', sans-serif;
+  font-size: 1em;
+  font-weight: 500;
+  color: #fff;
+  background-color: var(--brand);
+  border: none;
+  border-radius: 6px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.ask-btn:hover {
+  background-color: var(--accent);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+  transform: translateY(-1px);
+}
+
+.ask-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
 
 
 
