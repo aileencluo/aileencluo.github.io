@@ -374,7 +374,7 @@ h2[id] {
 }
 .resource-list li{
   text-align: justify;             /* 两端对齐 */
-  margin-bottom: 1em;              /* 列表项之间留白 */
+  
   line-height: 1.75;
   color: var(--ink-2);
 }
