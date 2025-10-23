@@ -8,14 +8,14 @@ title: Trivia
 <!-- ===== Calligraphy ===== -->
 <h2 id="calligraphy" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Calligraphy</h2>
 <p>
-  I picked up calligraphy when I was about six years old, and it has quietly remained part of my life ever since. For me, it’s less about producing perfect strokes than enjoying the calm and creativity that come with brush and ink.
+  I started learning calligraphy when I was about six, and it’s been a quiet companion ever since. For me, it’s less about perfect strokes than about the calm and creativity that come with brush and ink.
 </p>
 
 
 <!-- ===== Sake ===== -->
 <h2 id="sake" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Sake</h2>
 <p>
-  I enjoy exploring the world of sake, both its flavors and the culture that surrounds it. Tasting different brews has been both a delight and a learning journey, and somewhere along the way I completed a certification as an Intro Sake Sommelier.
+  I love exploring the world of sake: the flavors, the traditions, and the stories behind each brew. Tasting different varieties has been both a joy and a learning experience, and somewhere along the way I happened to earn a certification as an Intro Sake Sommelier.
 </p>
 
 <div class="divider"></div>
