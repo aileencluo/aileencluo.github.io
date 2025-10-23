@@ -363,15 +363,20 @@ h2[id] {
   letter-spacing: 0.2px;         /* 轻微字距，提升可读性 */
 }
 
-
+/* =========================
+   Public Philosophy – Resources Section
+   ========================= */
 /* Resources list */
 .resource-list{
   list-style: disc outside;
-  padding-left: 1.2em;     /* 控制圆点与文字缩进 */
+  padding-left: 1.5em;     /* 控制圆点与文字缩进 */
   margin: 0 0 1.8em;
 }
 .resource-list li{
-  margin: 0.45em 0;        /* 行距 */
+  text-align: justify;             /* 两端对齐 */
+  margin-bottom: 1em;              /* 列表项之间留白 */
+  line-height: 1.75;
+  color: var(--ink-2);
 }
 .resource-list a{
   font-weight: 600;
