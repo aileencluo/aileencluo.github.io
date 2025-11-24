@@ -15,7 +15,7 @@ title: Trivia
 <!-- ===== Sake ===== -->
 <h2 id="sake" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Sake</h2>
 <p>
-  I love exploring the world of sake: the flavors, the traditions, and the stories behind each brew. Tasting different varieties has been both a joy and a learning experience, and somewhere along the way I happened to earn a certification as an Intro Sake Sommelier.
+  I love exploring the world of sake: the flavors, the traditions, and the stories behind each brew. Tasting different varieties has been both a joy and a learning experience, somewhere along the way I earned a certification as an Intro Sake Sommelier.
 </p>
 
 <div class="divider"></div>
