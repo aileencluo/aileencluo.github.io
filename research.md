@@ -34,9 +34,9 @@ title: Research
 <p>A second, emerging area of my research traces the historical development of theories of learning and education, focusing on Enlightenment thinkers—including Locke, Rousseau, and Condillac, as well as marginalized women philosophers such as Sophie de Grouchy. This line of work aims to uncover a continuity in how these thinkers conceive of the child as a cognitive agent-in-formation and of learning as a central site of both cognitive and moral development. I am currently developing this area along the following themes.</p>
 
 <figure class="figure-torn">
-  <img src="assets/jean-piaget.png" alt="History & Philosophy of Psychology visual">
+  <img src="assets/Sophie de Grouchy.png" alt="History & Philosophy of Psychology visual">
 </figure>
-<p class="img-credit">Jean Piaget (1896-1980)</p>
+<p class="img-credit">Sophie de Grouchy (1764-1822)</p>
  
 
 
