@@ -31,7 +31,7 @@ title: Research
 
 <!-- ===== History and Philosophy of Psychology ===== -->
 <h2 id="history-psych" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">History and Philosophy of Psychology</h2>
-<p>A second, emerging area of my research traces the historical development of theories of learning and education, with a focus on figures such as Locke, Rousseau, and Piaget. This line of work aims to uncover a continuity in how these thinkers conceive the child as a cognitive agent-in-formation and how learning functions as a crucial site of cognitive development. I am currently developing this area along the following themes.</p>
+<p>A second, emerging area of my research traces the historical development of theories of learning and education, focusing on Enlightenment thinkers—including Locke, Rousseau, and Condillac, as well as marginalized women philosophers such as Sophie de Grouchy. This line of work aims to uncover a continuity in how these thinkers conceive of the child as a cognitive agent-in-formation and of learning as a central site of both cognitive and moral development. I am currently developing this area along the following themes.</p>
 
 <figure class="figure-torn">
   <img src="assets/jean-piaget.png" alt="History & Philosophy of Psychology visual">
