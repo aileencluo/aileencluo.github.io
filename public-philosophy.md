@@ -18,8 +18,8 @@ title: Public Philosophy
 <p class="img-credit">Image credit: Placeholder</p>
 -->
 
-<div class="subhead">Mission Statement</div>
-<p class="subdesc"><em>Making History Alive</em> is an ongoing public philosophy initiative that brings the history of philosophy into dialogue with contemporary issues in science, technology, and society. Its aim is to make philosophy’s past a living resource for understanding the present, through short essays, interviews, collaborations, and multimedia features that show how classic ideas continue to shape our intellectual and moral world.</p>
+<!-- <div class="subhead">Mission Statement</div>
+<p class="subdesc"><em>Making History Alive</em> is an ongoing public philosophy initiative that brings the history of philosophy into dialogue with contemporary issues in science, technology, and society. Its aim is to make philosophy’s past a living resource for understanding the present, through short essays, interviews, collaborations, and multimedia features that show how classic ideas continue to shape our intellectual and moral world.</p> -->
 
 <div class="subhead">Ask a Philosopher!</div>
 <p class="subdesc">Have a question about life, ethics, or society? <em>Ask a Philosopher!</em> turns your question into a miniature dialogue with the great minds of the past. It’s simple: choose a theme—from ethics and politics to art or technology—pick a philosopher whose perspective you’d like to hear, and then share your question. Selected questions will receive individual responses that connect your curiosity with the insights of thinkers from Plato to Kant to Confucius. The goal is not to close a question, but to open new ways of seeing through the eyes of those who first taught us to wonder.<br>
