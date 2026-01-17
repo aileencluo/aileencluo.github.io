@@ -49,7 +49,7 @@ title: Research
 
 <!-- ===== Philosophy of Cognitive Science ===== -->
 <h2 id="cogsci" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Philosophy of Cognitive Science and AI</h2>
-<p>A third, emerging strand of my research engages with contemporary philosophy of cognitive science and AI, addressing both foundational questions and practical implications. At the theoretical level, I examine agency and interpretability in artificial systems, with particular attention to how historical ideas can shed light on current debates. At the practical level, I bring these insights to bear on questions in AI governance. Building on my earlier work in the philosophy of law and action, I explore how increasingly agentic artificial systems challenge existing conceptions of risk, responsibility, and regulation.</p>
+<p>A third, emerging strand of my research engages with contemporary philosophy of cognitive science and AI, addressing both foundational questions and practical implications. At the theoretical level, I examine agency and interpretability in artificial systems, with particular attention to how historical ideas can shed light on current debates. At the practical level, I bring these insights to bear on questions in AI governance. Building on my earlier work in the philosophy of law and action, I explore how increasingly agentic artificial systems challenge existing conceptions of risk, intention, and responsibility.</p>
 
 <figure class="figure-torn">
   <img src="assets/cognitive.png" alt="Cognitive Science visual">
