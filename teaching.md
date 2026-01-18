@@ -18,7 +18,7 @@ Plato and Punishment
 </p>
 
 
-<div class="subhead">Philosophy of Mind, Psychology & Cognitive Science:</div>
+<div class="subhead">Philosophy of Mind, Psychology and Cognitive Science:</div>
 <p class="subdesc">Mind, Matter, and Meaning<br>
 Minds and Machines<br>
 Philosophy of Mind<br>
