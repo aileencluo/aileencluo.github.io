@@ -16,7 +16,7 @@ title: Research
 <p class="img-credit">Immanuel Kant (1724-1804)</p>
 
 
-<div class="subhead">1. “Sense and Sensibility: Kant on Berkeley on Spatial Representation” (Winner of the 2025 Markus Herz Prize)</div>
+<div class="subhead">1. “Sense and Sensibility: Kant on Berkeley on Spatial Representation” (Markus Herz Prize Winner)</div>
 <p class="subdesc">This paper traces Kant’s theory of space through a critical engagement with Berkeley’s semiotic theory of vision. I argue that Kant transforms Berkeley’s heterogeneity thesis—that sight and touch deliver irreducibly distinct contents—into a cornerstone of his own account. Whereas Berkeley reduces imagination to a merely reproductive faculty of association, Kant reconceives it as a productive faculty that integrates heterogenous modalities into a unified outer sense. On this reading, spatial representation is not, as Berkeley suggests, a “fleeting shadow” of the divine mind, but an <em>a priori</em>, multi-sensory form of intuition that secures the very distinction between reality and illusion.</p>
 
 <div class="subhead">2. “Laboring Time: Kant on Locke on Inner Sense” (draft available)</div>
