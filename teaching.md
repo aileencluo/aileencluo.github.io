@@ -22,7 +22,7 @@ Plato and Punishment
 <p class="subdesc">Mind, Matter, and Meaning<br>
 Minds and Machines<br>
 Philosophy of Mind<br>
-Other People’s Mind
+Other People’s Minds
 </p>
 
 
