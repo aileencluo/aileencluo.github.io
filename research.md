@@ -31,7 +31,7 @@ title: Research
 
 <!-- ===== History and Philosophy of Psychology ===== -->
 <h2 id="history-psych" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">History and Philosophy of Psychology</h2>
-<p>A second, emerging area of my research traces the historical development of theories of learning and education, focusing on Enlightenment thinkers, including Locke, Rousseau, and Condillac, as well as marginalized women philosophers such as Sophie de Grouchy. This line of work aims to uncover continuities in how these thinkers conceive of the child as a cognitive agent-in-formation and of learning as a central site of both cognitive and moral development. I am currently developing this area along the following themes.</p>
+<p>My second line of research moves beyond Kant to examine theories of learning and development across the broader Enlightenment, including figures such as Locke, Rousseau, and Condillac, as well as in lesser-studied women philosophers. I focus in particular on how affect, motivation, and social environment function as conditions of cognitive and moral development. Two projects are currently underway.</p>
 
 <figure class="figure-torn">
   <img src="assets/Sophie de Grouchy.png" alt="History & Philosophy of Psychology visual">
