@@ -11,7 +11,7 @@ title: Research
 
 <!-- ===== Kant ===== -->
 <h2 id="kant" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Kant</h2>
-<p>My core research area is Kant’s theoretical philosophy, particularly his account of cognitive agency and its development. My current projects include the following papers that are either based on or extend from my dissertation work.</p>
+<p>My core research area is Kant’s theoretical philosophy, particularly his account of cognitive agency and its development. Current projects include the following papers that are either based on or extend from my dissertation work.</p>
 
 <figure class="figure-torn">
   <img src="assets/kant.png" alt="Kant research visual">
