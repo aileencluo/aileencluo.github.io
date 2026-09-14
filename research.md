@@ -6,7 +6,7 @@ title: Research
 
 <div class="divider"></div>
 
-<p class="subdesc">What does it mean to be the agent of your own cognition? Where does receptivity end and activity begin? And on what grounds can a mind regard its representations as its own—as achievements for which it can be credited, rather than as endowments or mere givens for which it cannot? My research pursues these questions, first, in Kant’s critical philosophy, read through his engagements with Locke, Berkeley, and Leibniz, and then in the wider Enlightenment. Across both contexts, I defend a <em>constructivist</em> thesis about agency: a mind is not born an agent but becomes one, and even its most basic representations are acquired in the process of that becoming.</p>
+<p class="subdesc">What does it mean to be the agent of your own cognition? Where does receptivity end and activity begin? On what grounds can a mind regard its representations as its own—that is, as achievements for which it can be credited, rather than as endowments or mere givens for which it cannot? My research pursues these questions, first, in Kant’s critical philosophy, read through his engagements with Locke, Berkeley, and Leibniz, and then in the wider Enlightenment. Across both contexts, I defend a <em>constructivist</em> thesis about agency: a mind is not born an agent but becomes one, and even its most basic representations are acquired in the process of that becoming.</p>
 
 
 <!-- ===== Kant ===== -->
