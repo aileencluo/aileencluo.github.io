@@ -6,6 +6,9 @@ title: Research
 
 <div class="divider"></div>
 
+<p class="subdesc">What does it mean to be the agent of one’s own cognition? Where does receptivity end and activity begin in cognition? Through what acts does a mind come to possess its most basic representations? And on what grounds can a mind regard those representations as its own—as achievements for which it can be credited, rather than as endowments or mere givens for which it cannot? My research pursues these questions, first, in Kant’s critical philosophy, read through his engagements with Locke, Berkeley, and Leibniz, and then in the wider Enlightenment. Across both contexts, I defend a *constructivist* thesis about cognitive agency: a mind is not born an agent but becomes one, and even its most basic representations are acquired in the course of that becoming.</p>
+
+
 <!-- ===== Kant ===== -->
 <h2 id="kant" style="font-size:1.6em; margin-top:40px; border-left:4px solid #1B3A57; padding-left:10px;">Kant</h2>
 <p>My core research area is in Kant’s theoretical philosophy, especially when it intersects with epistemology and philosophy of psychology. Current projects include the following papers that are either based on or extend from my dissertation work.</p>
