@@ -18,7 +18,7 @@ title: Home
   
   <!-- 右边：文字 -->
   <div class="about-right">
-    <p>Hello! I’m Aileen. I am a PhD candidate in Philosophy at Stanford University, where I also pursue a PhD minor in Psychology. My research examines how Kant and his early modern predecessors understood cognitive agency: what it is, how it is formed, and where its limits lie. I am equally drawn to the history and philosophy of psychology (esp. learning and development), as well as contemporary debates in cognitive science and artificial intelligence. Before turning to philosophy, I trained in law. Outside of academic work, I enjoy photography, film, rock music, and travel—but above all, I cherish time spent with my friends, my partner and our cat, Galileo.</p>
+    <p>Hello! I’m Aileen. I am a PhD candidate in Philosophy at Stanford University, where I also pursue a PhD minor in Psychology. My research examines how Kant and his early modern predecessors understood human agency: what it is, how it is formed, and where its limits lie. I am also drawn to the history and philosophy of psychology in the wider Enlightenment, especially to how thinkers of that period understood the affective and social conditions of cognitive and moral development. These questions lead me, in turn, to contemporary debates in cognitive science and artificial intelligence. Before turning to philosophy, I trained in law. Outside of academic work, I enjoy photography, film, rock music, and travel. Most of all, I cherish time spent with my friends, my partner, and our cat, Galileo.</p>
 
     
   </div>
